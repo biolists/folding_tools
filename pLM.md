@@ -16,3 +16,6 @@
   - Manuscript: https://www.nature.com/articles/s41467-022-32007-7
   - Code: https://huggingface.co/nferruz/ProtGPT2
   - Resource: https://huggingface.co/spaces/Gradio-Blocks/protGPT2_gradioFold
+- Tranceptron
+  - Manuscript: https://proceedings.mlr.press/v162/notin22a.html
+  - Code: https://github.com/OATML-Markslab/Tranception
