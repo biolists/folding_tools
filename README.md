@@ -30,14 +30,14 @@
 - OmegaFold (pLMs + MSAs|PyTorch)
   - Manuscript: https://doi.org/10.1101/2022.07.21.500999
   - Code: https://github.com/HeliXonProtein/OmegaFold
-  - Resources: [[tweet] Martin comparing structures](https://twitter.com/thesteinegger/status/1554881669718573062), [[tweet] Sergey's positional encoding observation](https://twitter.com/sokrypton/status/1555536325176168448), 
+  - Other: [[tweet] Martin comparing structures](https://twitter.com/thesteinegger/status/1554881669718573062), [[tweet] Sergey's positional encoding observation](https://twitter.com/sokrypton/status/1555536325176168448), 
 - OpenFold (MSAs|PyTorch)
   - Manuscript?
   - Code: https://github.com/aqlaboratory/openfold
 - ESM-Fold (pLMs)
   - Manuscript: https://doi.org/10.1101/2022.07.20.500902
   - Code: ? (potentially: https://github.com/facebookresearch/esm)
-  - Resources: [Alex's tweet](https://twitter.com/alexrives/status/1550148755206414341), 
+  - Other: [[tweet] Alex's announcement](https://twitter.com/alexrives/status/1550148755206414341), 
 - EMBER3D (pLMs|PyTorch):
   - Manuscript: ?
   - Code: https://github.com/kWeissenow/EMBER3D
@@ -67,7 +67,7 @@
    - Code: https://github.com/lupoglaz/OpenFold2
 - 💀 Moonbear
    - Resource: https://www.getmoonbear.com/
-   - Other: [[tweet] [Stephanie's announcement](https://twitter.com/stephanieszhang/status/1427773598199164937)]
+   - Other: [[tweet] Stephanie's announcement](https://twitter.com/stephanieszhang/status/1427773598199164937)
  ---- 
 
 <a name="Databases"></a>
