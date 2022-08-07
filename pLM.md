@@ -1,18 +1,18 @@
 # Protein Language Models
-- TAPE
-  - Manuscript: https://github.com/songlab-cal/tape
+- TAPE (38M)
+  - Manuscript: https://arxiv.org/abs/1906.08230
   - Code: https://github.com/songlab-cal/tape
-- ESM
+- ESM (43M - 670M)
   - Manuscript: https://www.pnas.org/doi/10.1073/pnas.2016239118
   - Code: https://github.com/facebookresearch/esm
 - ProtTrans
   - Manuscript: https://ieeexplore.ieee.org/document/9477085/
   - Code: https://github.com/agemagician/ProtTrans
-- ProGen
+- ProGen (151M - 6.4B)
   - Manuscript: https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2
   - Code: https://github.com/salesforce/progen
   - Website: https://blog.salesforceairesearch.com/progen/
-- ProtGPT2
+- ProtGPT2 (738M)
   - Manuscript: https://www.nature.com/articles/s41467-022-32007-7
   - Code: https://huggingface.co/nferruz/ProtGPT2
   - Resource: https://huggingface.co/spaces/Gradio-Blocks/protGPT2_gradioFold
