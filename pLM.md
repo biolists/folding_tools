@@ -30,6 +30,9 @@
   - Manuscript: https://doi.org/10.1093/bioinformatics/btac020
   - Code: https://github.com/nadavbra/protein_bert
   - Code (PyTorch): https://github.com/lucidrains/protein-bert-pytorch
+- AminoBERT:
+  - Manuscript: https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1
+  - Code: ???
 
 ## pLM specific to Antibody sequences
 - IgLM
