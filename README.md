@@ -84,36 +84,36 @@
  
 <a name="Extensions"></a>
 ### Extensions
+  - alphafold_finetune - finetune AlphaFold for Protein-Peptide prediction
+    - Manuscript: https://www.biorxiv.org/content/10.1101/2022.07.12.499365v1
+    - Code: https://github.com/phbradley/alphafold_finetune
+    - Other: [[tweet] Amir's announcement](https://twitter.com/AMotmaen/status/1547435940011945984)
   - AlphaPulldown - protein-protein interaction screens using AlphaFold-Multimer
     - Manuscript: https://www.biorxiv.org/content/10.1101/2022.08.05.502961v1
     - Code: https://www.embl-hamburg.de/AlphaPulldown/
-  - AlphaFill - enriching the AlphaFold models with ligands and co-factors
-    - Manuscript: https://www.biorxiv.org/content/10.1101/2021.11.26.470110v1
-    - Code: https://alphafill.eu/
   - ColabDesign - Backprop through AlphaFold for protein design
     - Code: https://github.com/sokrypton/ColabDesign
   - AF2Rank - Rank Decoy using AlphaFold
     - Manuscript: https://www.biorxiv.org/content/10.1101/2022.03.11.484043v3
     - Code: https://github.com/jproney/AF2Rank
     - Resource: [Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/main/af/examples/AF2Rank.ipynb)
-  - alphafold_finetune - finetune AlphaFold for Protein-Peptide prediction
-    - Manuscript: https://www.biorxiv.org/content/10.1101/2022.07.12.499365v1
-    - Code: https://github.com/phbradley/alphafold_finetune
-    - Other: [[tweet] Amir's announcement](https://twitter.com/AMotmaen/status/1547435940011945984)
    
 ---- 
 
 <a name="Databases"></a>
-### Datasets/Databases
- - AlphaFold Database (UniRef90|AF2)
-   - Manuscript: https://doi.org/10.1093/nar/gkab1061
-   - Resource: https://alphafold.ebi.ac.uk
- - Eukaryotic interactormes (Pathawy-involved proteins|RoseTTAFold)
-   - Manuscript: https://www.science.org/doi/10.1126/science.abm4805
-   - Resource: https://www.ebi.ac.uk/pdbe/news/predicted-complexes-modelarchive-now-pdbe-kb-pages
- - Structures of human-transcriptome isoforms (ColabFold)
-   - Manuscript: https://doi.org/10.1101/2022.06.08.495354
-   - Resource: https://www.isoform.io
+### Databases of predictions
+  - AlphaFold Database (UniRef90 | AF2)
+    - Manuscript: https://doi.org/10.1093/nar/gkab1061
+    - Resource: https://alphafold.ebi.ac.uk
+  - Eukaryotic interactormes (Protein-Protein interactions | RF/AF2)
+    - Manuscript: https://www.science.org/doi/10.1126/science.abm4805
+    - Resource: https://www.ebi.ac.uk/pdbe/news/predicted-complexes-modelarchive-now-pdbe-kb-pages
+  - Structures of human-transcriptome isoforms (ColabFold/AF2)
+    - Manuscript: https://doi.org/10.1101/2022.06.08.495354
+    - Resource: https://www.isoform.io
+  - AlphaFill - enriching the AlphaFold models with ligands and co-factors (AF2)
+    - Manuscript: https://www.biorxiv.org/content/10.1101/2021.11.26.470110v1
+    - Code: https://alphafill.eu/
 
  ----
 
