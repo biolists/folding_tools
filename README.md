@@ -5,7 +5,9 @@
 * [Webservers](#Webservers)
 
 
-Note: discontinued project are marked with 💀
+**Note**: discontinued project are marked with 💀
+
+**Thanks for help to:** [@sokrypton](https://twitter.com/sokrypton)
 
 ----
 
