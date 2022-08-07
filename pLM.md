@@ -22,3 +22,5 @@
 - ProteinLM (200M, 3B)
   - Manuscript: https://arxiv.org/abs/2108.07435
   - Code: https://github.com/THUDM/ProteinLM
+- ProSE
+  - Code: https://github.com/tbepler/prose
