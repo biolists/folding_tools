@@ -38,21 +38,26 @@
 - Uni-Fold (MSAs|PyTorch)
   - Manuscript: https://doi.org/10.1101/2022.08.04.502811
   - Code: https://github.com/dptech-corp/Uni-Fold
+- MineSpore-Fold
+  - Manuscript: ?
+  - Code: ?
 
  ----
  
 <a name="Tools"></a>
 ### Variations/Repackaging/Tools
 
- - gget (AF2|MSAs|JAX)
+ - gget (AF2)
    - Manuscript: https://doi.org/10.1101/2022.05.17.492392
    - Code: https://github.com/pachterlab/gget#gget-alphafold-
- 
+ - FastFold (AF2|OF)
+  - Manuscript: https://arxiv.org/abs/2203.00854
+  - Code: https://github.com/hpcaitech/FastFold
  ---- 
 
 <a name="Databases"></a>
 ### Datasets/Databases
- - AlphaFold Database (UniRef90|AlphaFold 2)
+ - AlphaFold Database (UniRef90|AF2)
    - Manuscript: https://doi.org/10.1093/nar/gkab1061
    - Resource: alphafold.ebi.ac.uk
  - Eukaryotic interactormes (Pathawy-involved proteins|RoseTTAFold)
