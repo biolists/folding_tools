@@ -19,3 +19,6 @@
 - Tranceptron
   - Manuscript: https://proceedings.mlr.press/v162/notin22a.html
   - Code: https://github.com/OATML-Markslab/Tranception
+- ProteinLM (200M, 3B)
+  - Manuscript: https://arxiv.org/abs/2108.07435
+  - Code: https://github.com/THUDM/ProteinLM
