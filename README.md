@@ -110,7 +110,7 @@
    - Resource: https://alphafold.ebi.ac.uk
  - Eukaryotic interactormes (Pathawy-involved proteins|RoseTTAFold)
    - Manuscript: https://www.science.org/doi/10.1126/science.abm4805
-   - Resource: ?
+   - Resource: https://www.ebi.ac.uk/pdbe/news/predicted-complexes-modelarchive-now-pdbe-kb-pages
  - Structures of human-transcriptome isoforms (ColabFold)
    - Manuscript: https://doi.org/10.1101/2022.06.08.495354
    - Resource: https://www.isoform.io
