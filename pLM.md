@@ -5,6 +5,9 @@
 - ESM (43M - 670M)
   - Manuscript: https://www.pnas.org/doi/10.1073/pnas.2016239118
   - Code: https://github.com/facebookresearch/esm
+  - ESM2 (8M - 15B)
+    - Manuscript: https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1
+    - Code: ???
 - ProtTrans (420 - 3B)
   - Manuscript: https://ieeexplore.ieee.org/document/9477085/
   - Code: https://github.com/agemagician/ProtTrans
