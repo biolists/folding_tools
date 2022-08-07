@@ -57,6 +57,8 @@
 
 ## Non-transformer-based sequence models
 - UniRep (90M - mLSTM)
+  - Manuscript: https://www.nature.com/articles/s41592-019-0598-1
   - Code: https://github.com/churchlab/UniRep
 - SeqVec (93M - LSTM)
+  - Manuscript: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3220-8
   - Code: https://github.com/mheinzinger/SeqVec
