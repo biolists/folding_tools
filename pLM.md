@@ -14,5 +14,5 @@
   - Website: https://blog.salesforceairesearch.com/progen/
 - ProtGPT2
   - Manuscript: https://www.nature.com/articles/s41467-022-32007-7
-  - Code: ?
+  - Code: https://huggingface.co/nferruz/ProtGPT2
   - Resource: https://huggingface.co/spaces/Gradio-Blocks/protGPT2_gradioFold
