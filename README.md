@@ -20,7 +20,7 @@
 
 <a name="Predictors"></a>
 ### Predictors
-(in alphabetical order)
+[_in alphabetical order_]
 - **MSA-based** (uses Multiple Sequence Alignment as input)
   - AlphaFold2 (JAX)
     - Manuscript: https://www.nature.com/articles/s41586-021-03819-2
@@ -29,10 +29,10 @@
     - Manuscript: https://www.nature.com/articles/s41592-022-01488-1
     - Code: https://github.com/sokrypton/ColabFold
     - Code: https://github.com/YoshitakaMo/localcolabfold
-  - FastFold (AF2|OF)
+  - FastFold (Pytorch)
     - Manuscript: https://arxiv.org/abs/2203.00854
     - Code: https://github.com/hpcaitech/FastFold
-  - HelixFold (PyTorch)
+  - HelixFold (PaddlePaddle)
     - Manuscript: https://arxiv.org/abs/2207.05477
     - Code:  https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold
   - MineSpore-Fold (mindspore)
@@ -57,7 +57,7 @@
   - EMBER3D (PyTorch):
     - Manuscript: ?
     - Code: https://github.com/kWeissenow/EMBER3D
-  - HelixFold
+  - HelixFold(PaddlePaddle)
     - Manuscript: https://arxiv.org/abs/2207.13921
     - Code: https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold-single
     - Resource: https://paddlehelix.baidu.com/app/drug/protein-single/forecast
