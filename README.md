@@ -21,9 +21,10 @@
   - RoseTTAFold (PyTorch)
     - Manuscript: https://www.science.org/doi/10.1126/science.abj8754
     - Code: https://github.com/RosettaCommons/RoseTTAFold
-  - ColabFold (AF2|MSAs|JAX)
+  - ColabFold (Colab/Local interface for AlphaFold/RoseTTAFold/OmegaFold)
     - Manuscript: https://www.nature.com/articles/s41592-022-01488-1
     - Code: https://github.com/sokrypton/ColabFold
+    - Code: https://github.com/YoshitakaMo/localcolabfold
   - OpenFold (PyTorch)
     - Manuscript?
     - Code: https://github.com/aqlaboratory/openfold
