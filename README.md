@@ -27,7 +27,7 @@
   - Manuscript: ?
   - Code: https://github.com/kWeissenow/EMBER3D
  - ESM-Fold (pLMs)
-   - Manuscript: ?
+   - Manuscript: https://doi.org/10.1101/2022.07.20.500902
    - Code: ? (potentially: https://github.com/facebookresearch/esm)
  
 <a name="Tools"></a>
