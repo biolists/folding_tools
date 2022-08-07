@@ -43,7 +43,7 @@ Note: discontinued project are marked with 💀
   - Code: https://github.com/dptech-corp/Uni-Fold
 - MineSpore-Fold
   - Manuscript: https://arxiv.org/abs/2206.12240
-  - Code: ?
+  - Code: https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein
 
  ----
  
