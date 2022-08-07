@@ -68,7 +68,17 @@
 - 💀 Moonbear
    - Resource: https://www.getmoonbear.com/
    - Other: [[tweet] Stephanie's announcement](https://twitter.com/stephanieszhang/status/1427773598199164937)
- ---- 
+
+<a name="Extensions"></a>
+### Tools building on Predictors
+ - AlphaPulldown - protein-protein interaction screens using AlphaFold-Multimer
+   - Manuscript: https://www.biorxiv.org/content/10.1101/2022.08.05.502961v1
+   - Code: https://www.embl-hamburg.de/AlphaPulldown/
+ - AlphaFill - enriching the AlphaFold models with ligands and co-factors
+   - Manuscript: https://www.biorxiv.org/content/10.1101/2021.11.26.470110v1
+   - Code: https://alphafill.eu/
+   
+---- 
 
 <a name="Databases"></a>
 ### Datasets/Databases
