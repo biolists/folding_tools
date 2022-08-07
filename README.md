@@ -1,4 +1,4 @@
-**Table of contents**
+📖 **Table of contents**
 * [Predictors](#Predictors)
 * [Tools](#Tools)
 * [Extensions](#Extensions)
@@ -6,9 +6,15 @@
 * [Webservers](#Webservers)
 
 
-**Note**: discontinued project are marked with 💀
+💡 **Notes**
+- The following lists are curated by humans, as such may be incomplete
+- We do not wish to advertize any tool over any other, but simply list the tools we are aware of in either random or alphabetical order
+- Any suggestions for improvements and additions are welcome as issues or pull requests
+- Projects we identify as discontinued are marked with 💀
 
-**Thanks for help to:** [@sokrypton](https://twitter.com/sokrypton)
+⚡️ **Brought to you by:** 
+- [@sacdallago](https://twitter.com/sacdallago)
+- [@sokrypton](https://twitter.com/sokrypton)
 
 ----
 
