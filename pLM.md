@@ -8,6 +8,8 @@
 - ProGen (1.2M), ProGen2 (151M - 6.4B)
   - Manuscript: https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2
   - Code: https://github.com/salesforce/progen
+  - Manuscript: https://arxiv.org/abs/2206.13517
+  - Code: https://github.com/salesforce/progen/tree/main/progen2
 - ProtTrans (420M - 3B)
   - Manuscript: https://ieeexplore.ieee.org/document/9477085/
   - Code: https://github.com/agemagician/ProtTrans
