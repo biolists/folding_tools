@@ -1,20 +1,20 @@
 # Protein Language Models
-- TAPE (38M)
-  - Manuscript: https://arxiv.org/abs/1906.08230
-  - Code: https://github.com/songlab-cal/tape
-- ESM (43M - 670M)
+(sorted by model side)
+- ESM (43M - 670M), ESM2 (8M - 15B)
   - Manuscript: https://www.pnas.org/doi/10.1073/pnas.2016239118
   - Code: https://github.com/facebookresearch/esm
-  - ESM2 (8M - 15B)
-    - Manuscript: https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1
-    - Code: ???
-- ProtTrans (420 - 3B)
-  - Manuscript: https://ieeexplore.ieee.org/document/9477085/
-  - Code: https://github.com/agemagician/ProtTrans
+  - Manuscript: https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1
+  - Code: ???
 - ProGen (151M - 6.4B)
   - Manuscript: https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2
   - Code: https://github.com/salesforce/progen
   - Website: https://blog.salesforceairesearch.com/progen/
+- ProtTrans (420M - 3B)
+  - Manuscript: https://ieeexplore.ieee.org/document/9477085/
+  - Code: https://github.com/agemagician/ProtTrans
+- ProteinLM (200M, 3B)
+  - Manuscript: https://arxiv.org/abs/2108.07435
+  - Code: https://github.com/THUDM/ProteinLM
 - ProtGPT2 (738M)
   - Manuscript: https://www.nature.com/articles/s41467-022-32007-7
   - Code: https://huggingface.co/nferruz/ProtGPT2
@@ -22,46 +22,46 @@
 - Tranceptron (700M)
   - Manuscript: https://proceedings.mlr.press/v162/notin22a.html
   - Code: https://github.com/OATML-Markslab/Tranception
-- ProteinLM (200M, 3B)
-  - Manuscript: https://arxiv.org/abs/2108.07435
-  - Code: https://github.com/THUDM/ProteinLM
+- DistilProtBert (230M)
+  - Manuscript: https://www.biorxiv.org/content/early/2022/05/10/2022.05.09.491157
+  - Code: https://github.com/yarongef/DistilProtBert
+- TAPE (38M)
+  - Manuscript: https://arxiv.org/abs/1906.08230
+  - Code: https://github.com/songlab-cal/tape
 - ProteinBERT (16M)
   - Manuscript: https://doi.org/10.1093/bioinformatics/btac020
   - Code: https://github.com/nadavbra/protein_bert
   - Code (PyTorch): https://github.com/lucidrains/protein-bert-pytorch
-- AminoBERT
+- AminoBERT (??)
   - Manuscript: https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1
   - Code: ???
-- DistilProtBert (230M)
-  - Manuscript: https://www.biorxiv.org/content/early/2022/05/10/2022.05.09.491157
-  - Code: https://github.com/yarongef/DistilProtBert
 
 ## Non-transformer-based sequence models
 - CARP (640M - CNN)
   - Manuscript: https://www.biorxiv.org/content/10.1101/2022.05.19.492714v2
   - Code: https://github.com/microsoft/protein-sequence-models
-- UniRep (90M - mLSTM)
-  - Manuscript: https://www.nature.com/articles/s41592-019-0598-1
-  - Code: https://github.com/churchlab/UniRep
 - SeqVec (93M - LSTM)
   - Manuscript: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3220-8
   - Code: https://github.com/mheinzinger/SeqVec
-- ProSE (LSTM)
+- UniRep (90M - mLSTM)
+  - Manuscript: https://www.nature.com/articles/s41592-019-0598-1
+  - Code: https://github.com/churchlab/UniRep
+- ProSE (??, LSTM)
   - Code: https://github.com/tbepler/prose
 
 ## pLM specific to Antibody sequences
 - IgLM (1.5M, 13M)
   - Manuscript: https://www.biorxiv.org/content/10.1101/2021.12.13.472419v1.full
   - Code: https://github.com/Graylab/IgLM
-- AbLang
-  - Manuscript: https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac046/6609807
-  - Code: https://github.com/oxpig/AbLang
-- AntiBERTy (26M)
-  - Manuscript: https://arxiv.org/abs/2112.07782
-  - Code: https://pypi.org/project/antiberty
 - AntiBERTa (86M)
   - Manuscript: https://www.sciencedirect.com/science/article/pii/S2666389922001052
   - Code: https://github.com/alchemab/antiberta
+- AntiBERTy (26M)
+  - Manuscript: https://arxiv.org/abs/2112.07782
+  - Code: https://pypi.org/project/antiberty
 - Sapiens (0.6M)
   - Manuscript: https://www.tandfonline.com/doi/full/10.1080/19420862.2021.2020203
   - Code: https://github.com/Merck/BioPhi
+- AbLang (??)
+  - Manuscript: https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac046/6609807
+  - Code: https://github.com/oxpig/AbLang
