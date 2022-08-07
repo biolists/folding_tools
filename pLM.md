@@ -24,3 +24,11 @@
   - Code: https://github.com/THUDM/ProteinLM
 - ProSE
   - Code: https://github.com/tbepler/prose
+
+## pLM specific to Antibody sequences
+- IgLM
+  - Manuscript: https://www.biorxiv.org/content/10.1101/2021.12.13.472419v1.full
+  - Code: https://github.com/Graylab/IgLM
+- AbLang
+  - Manuscript: https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac046/6609807
+  - Code: https://github.com/oxpig/AbLang
