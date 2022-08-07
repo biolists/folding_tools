@@ -5,10 +5,9 @@
   - Code: https://github.com/facebookresearch/esm
   - Manuscript: https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1
   - Code: ???
-- ProGen (151M - 6.4B)
+- ProGen (1.2M), ProGen2 (151M - 6.4B)
   - Manuscript: https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2
   - Code: https://github.com/salesforce/progen
-  - Website: https://blog.salesforceairesearch.com/progen/
 - ProtTrans (420M - 3B)
   - Manuscript: https://ieeexplore.ieee.org/document/9477085/
   - Code: https://github.com/agemagician/ProtTrans
@@ -18,7 +17,7 @@
 - ProtGPT2 (738M)
   - Manuscript: https://www.nature.com/articles/s41467-022-32007-7
   - Code: https://huggingface.co/nferruz/ProtGPT2
-  - Resource: https://huggingface.co/spaces/Gradio-Blocks/protGPT2_gradioFold
+  - Extra: https://huggingface.co/spaces/Gradio-Blocks/protGPT2_gradioFold
 - Tranceptron (700M)
   - Manuscript: https://proceedings.mlr.press/v162/notin22a.html
   - Code: https://github.com/OATML-Markslab/Tranception
