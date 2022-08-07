@@ -8,7 +8,7 @@
 
 💡 **Notes**
 - The following lists are curated by humans, as such may be incomplete
-- We only include software based on or inspired by AlphaFold
+- We only include software targeting the folding problem combining learnings from AlphaFold 2 and protein language models. You may find other ML on protein tools [at Kevin's incredible ML for proteins list](https://github.com/yangkky/Machine-learning-for-proteins).
 - We do not wish to advertize any tool over any other, but simply list the tools we are aware of in either random or alphabetical order
 - Any suggestions for improvements and additions are welcome as issues or pull requests
 - Projects we identify as discontinued are marked with 💀
