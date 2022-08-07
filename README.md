@@ -39,7 +39,7 @@
   - Manuscript: https://doi.org/10.1101/2022.08.04.502811
   - Code: https://github.com/dptech-corp/Uni-Fold
 - MineSpore-Fold
-  - Manuscript: ?
+  - Manuscript: https://arxiv.org/abs/2206.12240
   - Code: ?
 
  ----
