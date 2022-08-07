@@ -1,0 +1,14 @@
+# Protein Language Models
+- TAPE
+  - Manuscript: https://github.com/songlab-cal/tape
+  - Code: https://github.com/songlab-cal/tape
+- ESM
+  - Manuscript: https://www.pnas.org/doi/10.1073/pnas.2016239118
+  - Code: https://github.com/facebookresearch/esm
+- ProtTrans
+  - Manuscript: https://ieeexplore.ieee.org/document/9477085/
+  - Code: https://github.com/agemagician/ProtTrans
+- ProGen
+  - Manuscript: https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2
+  - Code: https://github.com/salesforce/progen
+  - Website: https://blog.salesforceairesearch.com/progen/
