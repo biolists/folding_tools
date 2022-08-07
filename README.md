@@ -5,8 +5,8 @@
 
 ----
 
-
-### [](#Predictors) Predictors
+<a name="Predictors"></a>
+### Predictors
  - AlphaFold 2 (MSAs|JAX)
    - Manuscript: https://www.nature.com/articles/s41586-021-03819-2
    - Code: https://github.com/deepmind/alphafold
@@ -30,7 +30,8 @@
    - Manuscript: ?
    - Code: ? (potentially: https://github.com/facebookresearch/esm)
  
-### [](#Tools) Variations/Repackaging/Tools
+<a name="Tools"></a>
+### Variations/Repackaging/Tools
  - ColabFold (AF2|MSAs|JAX)
    - Manuscript: https://www.nature.com/articles/s41592-022-01488-1
    - Code: https://github.com/sokrypton/ColabFold
@@ -38,7 +39,8 @@
    - Manuscript: https://doi.org/10.1101/2022.05.17.492392
    - Code: https://github.com/pachterlab/gget#gget-alphafold-
  
-### [&nbwsp;](#Databases) Datasets/Databases
+<a name="Databases"></a>
+### Datasets/Databases
  - AlphaFold Database (UniRef90|AlphaFold 2)
    - Manuscript: https://doi.org/10.1093/nar/gkab1061
    - Resource: alphafold.ebi.ac.uk
