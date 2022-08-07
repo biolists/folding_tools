@@ -14,32 +14,43 @@
 
 <a name="Predictors"></a>
 ### Predictors
+(in alphabetical order)
 - **MSA-based** (uses Multiple Sequence Alignment as input)
   - AlphaFold2 (JAX)
     - Manuscript: https://www.nature.com/articles/s41586-021-03819-2
     - Code: https://github.com/deepmind/alphafold
-  - RoseTTAFold (PyTorch)
-    - Manuscript: https://www.science.org/doi/10.1126/science.abj8754
-    - Code: https://github.com/RosettaCommons/RoseTTAFold
   - ColabFold (JAX - faster AF2 compiling and MSA generations)
     - Manuscript: https://www.nature.com/articles/s41592-022-01488-1
     - Code: https://github.com/sokrypton/ColabFold
     - Code: https://github.com/YoshitakaMo/localcolabfold
-  - OpenFold (PyTorch)
-    - Manuscript?
-    - Code: https://github.com/aqlaboratory/openfold
+  - FastFold (AF2|OF)
+    - Manuscript: https://arxiv.org/abs/2203.00854
+    - Code: https://github.com/hpcaitech/FastFold
   - HelixFold (PyTorch)
     - Manuscript: https://arxiv.org/abs/2207.05477
     - Code:  https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold
+  - MineSpore-Fold (mindspore)
+    - Manuscript: https://arxiv.org/abs/2206.12240
+    - Code: https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein
+  - OpenFold (PyTorch)
+    - Manuscript?
+    - Code: https://github.com/aqlaboratory/openfold
+  - RoseTTAFold (PyTorch)
+    - Manuscript: https://www.science.org/doi/10.1126/science.abj8754
+    - Code: https://github.com/RosettaCommons/RoseTTAFold
   - Uni-Fold (PyTorch/JAX)
     - Manuscript: https://doi.org/10.1101/2022.08.04.502811
     - Code (PyTorch): https://github.com/dptech-corp/Uni-Fold
     - Code (JAX): https://github.com/dptech-corp/Uni-Fold-jax
-  - MineSpore-Fold (mindspore)
-    - Manuscript: https://arxiv.org/abs/2206.12240
-    - Code: https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein
 
 - **pLM-based** (uses Protein Language Model as input)
+  - ESM-Fold (PyTorch)
+    - Manuscript: https://doi.org/10.1101/2022.07.20.500902
+    - Code: ? (potentially: https://github.com/facebookresearch/esm)
+    - Other: [[tweet] Alex's announcement](https://twitter.com/alexrives/status/1550148755206414341), 
+  - EMBER3D (PyTorch):
+    - Manuscript: ?
+    - Code: https://github.com/kWeissenow/EMBER3D
   - HelixFold
     - Manuscript: https://arxiv.org/abs/2207.13921
     - Code: https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold-single
@@ -48,13 +59,6 @@
     - Manuscript: https://doi.org/10.1101/2022.07.21.500999
     - Code: https://github.com/HeliXonProtein/OmegaFold
     - Other: [[tweet] Martin comparing structures](https://twitter.com/thesteinegger/status/1554881669718573062), [[tweet] Sergey's positional encoding observation](https://twitter.com/sokrypton/status/1555536325176168448), 
-  - ESM-Fold (PyTorch)
-    - Manuscript: https://doi.org/10.1101/2022.07.20.500902
-    - Code: ? (potentially: https://github.com/facebookresearch/esm)
-    - Other: [[tweet] Alex's announcement](https://twitter.com/alexrives/status/1550148755206414341), 
-  - EMBER3D (PyTorch):
-    - Manuscript: ?
-    - Code: https://github.com/kWeissenow/EMBER3D
 
  ----
  
@@ -63,9 +67,6 @@
   - gget (AF2)
     - Manuscript: https://doi.org/10.1101/2022.05.17.492392
     - Code: https://github.com/pachterlab/gget#gget-alphafold-
-  - FastFold (AF2|OF)
-    - Manuscript: https://arxiv.org/abs/2203.00854
-    - Code: https://github.com/hpcaitech/FastFold
   - 💀 Lucidrains AF2 (AF2)
     - Code: https://github.com/lucidrains/alphafold2
   - 💀 Lupoglaz OpenFold2 (AF2)
