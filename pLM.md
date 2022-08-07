@@ -26,6 +26,10 @@
   - Code: https://github.com/tbepler/prose
 - SeqVec (93M)
   - Code: https://github.com/mheinzinger/SeqVec
+- ProteinBERT:
+  - Manuscript: https://doi.org/10.1093/bioinformatics/btac020
+  - Code: https://github.com/nadavbra/protein_bert
+  - Code (PyTorch): https://github.com/lucidrains/protein-bert-pytorch
 
 ## pLM specific to Antibody sequences
 - IgLM
