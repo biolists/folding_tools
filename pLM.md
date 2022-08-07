@@ -26,13 +26,16 @@
   - Code: https://github.com/tbepler/prose
 - SeqVec (93M)
   - Code: https://github.com/mheinzinger/SeqVec
-- ProteinBERT:
+- ProteinBERT
   - Manuscript: https://doi.org/10.1093/bioinformatics/btac020
   - Code: https://github.com/nadavbra/protein_bert
   - Code (PyTorch): https://github.com/lucidrains/protein-bert-pytorch
-- AminoBERT:
+- AminoBERT
   - Manuscript: https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1
   - Code: ???
+- DistilProtBert (230M)
+  - Manuscript: https://www.biorxiv.org/content/early/2022/05/10/2022.05.09.491157
+  - Code: https://github.com/yarongef/DistilProtBert
 
 ## pLM specific to Antibody sequences
 - IgLM
