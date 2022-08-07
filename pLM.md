@@ -12,3 +12,7 @@
   - Manuscript: https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2
   - Code: https://github.com/salesforce/progen
   - Website: https://blog.salesforceairesearch.com/progen/
+- ProtGPT2
+  - Manuscript: https://www.nature.com/articles/s41467-022-32007-7
+  - Code: ?
+  - Resource: https://huggingface.co/spaces/Gradio-Blocks/protGPT2_gradioFold
