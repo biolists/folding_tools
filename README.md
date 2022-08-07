@@ -35,7 +35,7 @@
     - Manuscript: https://doi.org/10.1101/2022.08.04.502811
     - Code (PyTorch): https://github.com/dptech-corp/Uni-Fold
     - Code (JAX): https://github.com/dptech-corp/Uni-Fold-jax
-  - MineSpore-Fold
+  - MineSpore-Fold (mindspore)
     - Manuscript: https://arxiv.org/abs/2206.12240
     - Code: https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein
 
