@@ -25,8 +25,6 @@
 - ProteinLM (200M, 3B)
   - Manuscript: https://arxiv.org/abs/2108.07435
   - Code: https://github.com/THUDM/ProteinLM
-- ProSE
-  - Code: https://github.com/tbepler/prose
 - ProteinBERT (16M)
   - Manuscript: https://doi.org/10.1093/bioinformatics/btac020
   - Code: https://github.com/nadavbra/protein_bert
@@ -48,6 +46,8 @@
 - SeqVec (93M - LSTM)
   - Manuscript: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3220-8
   - Code: https://github.com/mheinzinger/SeqVec
+- ProSE (LSTM)
+  - Code: https://github.com/tbepler/prose
 
 ## pLM specific to Antibody sequences
 - IgLM
