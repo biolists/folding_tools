@@ -13,61 +13,64 @@
 
 <a name="Predictors"></a>
 ### Predictors
-- AlphaFold 2 (MSAs|JAX)
-  - Manuscript: https://www.nature.com/articles/s41586-021-03819-2
-  - Code: https://github.com/deepmind/alphafold
-- RoseTTAFold (MSAs|PyTorch)
-  - Manuscript: https://www.science.org/doi/10.1126/science.abj8754
-  - Code: https://github.com/RosettaCommons/RoseTTAFold
-- HelixFold (MSAs + pLMs)
-  - MSA-based
+- **MSA-based** (uses Multiple Sequence Alignment as input)
+  - AlphaFold2 (JAX)
+    - Manuscript: https://www.nature.com/articles/s41586-021-03819-2
+    - Code: https://github.com/deepmind/alphafold
+  - RoseTTAFold (PyTorch)
+    - Manuscript: https://www.science.org/doi/10.1126/science.abj8754
+    - Code: https://github.com/RosettaCommons/RoseTTAFold
+  - OpenFold (PyTorch)
+    - Manuscript?
+    - Code: https://github.com/aqlaboratory/openfold
+  - HelixFold (PyTorch)
     - Manuscript: https://arxiv.org/abs/2207.05477
     - Code:  https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold
-  - pLM-based
+  - Uni-Fold (PyTorch/JAX)
+    - Manuscript: https://doi.org/10.1101/2022.08.04.502811
+    - Code (PyTorch): https://github.com/dptech-corp/Uni-Fold
+    - Code (JAX): https://github.com/dptech-corp/Uni-Fold-jax
+  - MineSpore-Fold
+    - Manuscript: https://arxiv.org/abs/2206.12240
+    - Code: https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein
+
+- **pLM-based** (uses Protein Language Model as input)
+  - HelixFold
     - Manuscript: https://arxiv.org/abs/2207.13921
     - Code: https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold-single
-  - Resrouce: https://paddlehelix.baidu.com/app/drug/protein-single/forecast
-- OmegaFold (pLMs + MSAs|PyTorch)
-  - Manuscript: https://doi.org/10.1101/2022.07.21.500999
-  - Code: https://github.com/HeliXonProtein/OmegaFold
-  - Other: [[tweet] Martin comparing structures](https://twitter.com/thesteinegger/status/1554881669718573062), [[tweet] Sergey's positional encoding observation](https://twitter.com/sokrypton/status/1555536325176168448), 
-- OpenFold (MSAs|PyTorch)
-  - Manuscript?
-  - Code: https://github.com/aqlaboratory/openfold
-- ESM-Fold (pLMs)
-  - Manuscript: https://doi.org/10.1101/2022.07.20.500902
-  - Code: ? (potentially: https://github.com/facebookresearch/esm)
-  - Other: [[tweet] Alex's announcement](https://twitter.com/alexrives/status/1550148755206414341), 
-- EMBER3D (pLMs|PyTorch):
-  - Manuscript: ?
-  - Code: https://github.com/kWeissenow/EMBER3D
-- ColabFold (AF2|MSAs|JAX)
-  - Manuscript: https://www.nature.com/articles/s41592-022-01488-1
-  - Code: https://github.com/sokrypton/ColabFold
-- Uni-Fold (MSAs|PyTorch)
-  - Manuscript: https://doi.org/10.1101/2022.08.04.502811
-  - Code: https://github.com/dptech-corp/Uni-Fold
-- MineSpore-Fold
-  - Manuscript: https://arxiv.org/abs/2206.12240
-  - Code: https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein
+    - Resource: https://paddlehelix.baidu.com/app/drug/protein-single/forecast
+  - OmegaFold (PyTorch)
+    - Manuscript: https://doi.org/10.1101/2022.07.21.500999
+    - Code: https://github.com/HeliXonProtein/OmegaFold
+    - Other: [[tweet] Martin comparing structures](https://twitter.com/thesteinegger/status/1554881669718573062), [[tweet] Sergey's positional encoding observation](https://twitter.com/sokrypton/status/1555536325176168448), 
+  - ESM-Fold (PyTorch)
+    - Manuscript: https://doi.org/10.1101/2022.07.20.500902
+    - Code: ? (potentially: https://github.com/facebookresearch/esm)
+    - Other: [[tweet] Alex's announcement](https://twitter.com/alexrives/status/1550148755206414341), 
+  - EMBER3D (PyTorch):
+    - Manuscript: ?
+    - Code: https://github.com/kWeissenow/EMBER3D
 
  ----
  
 <a name="Tools"></a>
 ### Variations/Repackaging/Tools
- - gget (AF2)
-   - Manuscript: https://doi.org/10.1101/2022.05.17.492392
-   - Code: https://github.com/pachterlab/gget#gget-alphafold-
- - FastFold (AF2|OF)
-   - Manuscript: https://arxiv.org/abs/2203.00854
-   - Code: https://github.com/hpcaitech/FastFold
- - 💀 Lucidrains AF2 (AF2)
-   - Code: https://github.com/lucidrains/alphafold2
-- 💀 Lupoglaz OpenFold2 (AF2)
-   - Code: https://github.com/lupoglaz/OpenFold2
-- 💀 Moonbear
-   - Resource: https://www.getmoonbear.com/
-   - Other: [[tweet] Stephanie's announcement](https://twitter.com/stephanieszhang/status/1427773598199164937)
+  - ColabFold (AF2|MSAs|JAX)
+    - Manuscript: https://www.nature.com/articles/s41592-022-01488-1
+    - Code: https://github.com/sokrypton/ColabFold
+  - gget (AF2)
+    - Manuscript: https://doi.org/10.1101/2022.05.17.492392
+    - Code: https://github.com/pachterlab/gget#gget-alphafold-
+  - FastFold (AF2|OF)
+    - Manuscript: https://arxiv.org/abs/2203.00854
+    - Code: https://github.com/hpcaitech/FastFold
+  - 💀 Lucidrains AF2 (AF2)
+    - Code: https://github.com/lucidrains/alphafold2
+  - 💀 Lupoglaz OpenFold2 (AF2)
+    - Code: https://github.com/lupoglaz/OpenFold2
+  - 💀 Moonbear
+    - Resource: https://www.getmoonbear.com/
+    - Other: [[tweet] Stephanie's announcement](https://twitter.com/stephanieszhang/status/1427773598199164937)
 
 <a name="Extensions"></a>
 ### Tools building on Predictors
