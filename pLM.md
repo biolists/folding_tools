@@ -34,6 +34,15 @@
 - AbLang
   - Manuscript: https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac046/6609807
   - Code: https://github.com/oxpig/AbLang
+- AntiBERTy
+  - Manuscript: https://arxiv.org/abs/2112.07782
+  - Code: https://pypi.org/project/antiberty
+- AntiBERTa
+  - Manuscript: https://www.sciencedirect.com/science/article/pii/S2666389922001052
+  - Code: https://github.com/alchemab/antiberta
+- Sapiens
+  - Manuscript: https://www.tandfonline.com/doi/full/10.1080/19420862.2021.2020203
+  - Code: https://github.com/Merck/BioPhi
 
 ## Non-transformer-based sequence models
 - UniRep (90M)
