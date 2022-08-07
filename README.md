@@ -1,6 +1,6 @@
 **Table of contents**
 * [Predictors](#Predictors)
-* [Tools](#Tools)
+* [Tools, reimplementations, etc.](#Tools)
 * [Databases](#Databases)
 * [Webservers](#Webservers)
 
@@ -46,13 +46,16 @@
  
 <a name="Tools"></a>
 ### Variations/Repackaging/Tools
-
  - gget (AF2)
    - Manuscript: https://doi.org/10.1101/2022.05.17.492392
    - Code: https://github.com/pachterlab/gget#gget-alphafold-
  - FastFold (AF2|OF)
   - Manuscript: https://arxiv.org/abs/2203.00854
   - Code: https://github.com/hpcaitech/FastFold
+ - Lucidrains AF2 (AF2)
+  - Code: https://github.com/lucidrains/alphafold2
+- lupoglaz OpenFold2 (AF2)
+  - Code: https://github.com/lupoglaz/OpenFold2
  ---- 
 
 <a name="Databases"></a>
