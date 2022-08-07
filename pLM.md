@@ -50,18 +50,18 @@
   - Code: https://github.com/tbepler/prose
 
 ## pLM specific to Antibody sequences
-- IgLM
+- IgLM (1.5M, 13M)
   - Manuscript: https://www.biorxiv.org/content/10.1101/2021.12.13.472419v1.full
   - Code: https://github.com/Graylab/IgLM
 - AbLang
   - Manuscript: https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac046/6609807
   - Code: https://github.com/oxpig/AbLang
-- AntiBERTy
+- AntiBERTy (26M)
   - Manuscript: https://arxiv.org/abs/2112.07782
   - Code: https://pypi.org/project/antiberty
-- AntiBERTa
+- AntiBERTa (86M)
   - Manuscript: https://www.sciencedirect.com/science/article/pii/S2666389922001052
   - Code: https://github.com/alchemab/antiberta
-- Sapiens
+- Sapiens (0.6M)
   - Manuscript: https://www.tandfonline.com/doi/full/10.1080/19420862.2021.2020203
   - Code: https://github.com/Merck/BioPhi
