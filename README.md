@@ -8,6 +8,7 @@
 
 💡 **Notes**
 - The following lists are curated by humans, as such may be incomplete
+- We only include software based on or inspired by AlphaFold
 - We do not wish to advertize any tool over any other, but simply list the tools we are aware of in either random or alphabetical order
 - Any suggestions for improvements and additions are welcome as issues or pull requests
 - Projects we identify as discontinued are marked with 💀
