@@ -19,9 +19,13 @@
 - RoseTTAFold (MSAs|PyTorch)
   - Manuscript: https://www.science.org/doi/10.1126/science.abj8754
   - Code: https://github.com/RosettaCommons/RoseTTAFold
-- HelixFold (pLMs)
-  - Manuscript: https://arxiv.org/abs/2207.13921
-  - Code: https://github.com/PaddlePaddle/PaddleHelix
+- HelixFold (MSAs + pLMs)
+  - MSA-based
+    - Manuscript: https://arxiv.org/abs/2207.05477
+    - Code:  https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold
+  - pLM-based
+    - Manuscript: https://arxiv.org/abs/2207.13921
+    - Code: https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold-single
   - Resrouce: https://paddlehelix.baidu.com/app/drug/protein-single/forecast
 - OmegaFold (pLMs + MSAs|PyTorch)
   - Manuscript: https://doi.org/10.1101/2022.07.21.500999
