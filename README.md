@@ -93,7 +93,7 @@
     - Code: https://www.embl-hamburg.de/AlphaPulldown/
   - ColabDesign - Backprop through AlphaFold for protein design
     - Code: https://github.com/sokrypton/ColabDesign
-  - AF2Rank - Rank Decoy using AlphaFold
+  - AF2Rank - Rank Decoy Structures/Sequences using AlphaFold
     - Manuscript: https://www.biorxiv.org/content/10.1101/2022.03.11.484043v3
     - Code: https://github.com/jproney/AF2Rank
     - Resource: [Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/main/af/examples/AF2Rank.ipynb)
