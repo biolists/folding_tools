@@ -68,9 +68,7 @@
     - Code: https://github.com/lucidrains/alphafold2
   - 💀 Lupoglaz OpenFold2 (AF2)
     - Code: https://github.com/lupoglaz/OpenFold2
-  - 💀 Moonbear
-    - Resource: https://www.getmoonbear.com/
-    - Other: [[tweet] Stephanie's announcement](https://twitter.com/stephanieszhang/status/1427773598199164937)
+
 
 <a name="Extensions"></a>
 ### Tools building on Predictors
@@ -87,10 +85,13 @@
 ### Datasets/Databases
  - AlphaFold Database (UniRef90|AF2)
    - Manuscript: https://doi.org/10.1093/nar/gkab1061
-   - Resource: alphafold.ebi.ac.uk
+   - Resource: https://alphafold.ebi.ac.uk
  - Eukaryotic interactormes (Pathawy-involved proteins|RoseTTAFold)
    - Manuscript: https://www.science.org/doi/10.1126/science.abm4805
    - Resource: ?
+ - Structures of human-transcriptome isoforms (ColabFold)
+   - Manuscript: https://doi.org/10.1101/2022.06.08.495354
+   - Resource: https://www.isoform.io
 
  ----
 
@@ -99,3 +100,6 @@
  - Lambda PredictProtein (ColabFold|limit:500AA)
    - Manuscript: https://doi.org/10.1101/2022.08.04.502750
    - Resource: http://embed.predictprotein.org/
+- 💀 Moonbear
+   - Resource: https://www.getmoonbear.com/
+   - Other: [[tweet] Stephanie's announcement](https://twitter.com/stephanieszhang/status/1427773598199164937)
