@@ -38,6 +38,17 @@
   - Manuscript: https://www.biorxiv.org/content/early/2022/05/10/2022.05.09.491157
   - Code: https://github.com/yarongef/DistilProtBert
 
+## Non-transformer-based sequence models
+- CARP (640M - CNN)
+  - Manuscript: https://www.biorxiv.org/content/10.1101/2022.05.19.492714v2
+  - Code: https://github.com/microsoft/protein-sequence-models
+- UniRep (90M - mLSTM)
+  - Manuscript: https://www.nature.com/articles/s41592-019-0598-1
+  - Code: https://github.com/churchlab/UniRep
+- SeqVec (93M - LSTM)
+  - Manuscript: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3220-8
+  - Code: https://github.com/mheinzinger/SeqVec
+
 ## pLM specific to Antibody sequences
 - IgLM
   - Manuscript: https://www.biorxiv.org/content/10.1101/2021.12.13.472419v1.full
@@ -54,11 +65,3 @@
 - Sapiens
   - Manuscript: https://www.tandfonline.com/doi/full/10.1080/19420862.2021.2020203
   - Code: https://github.com/Merck/BioPhi
-
-## Non-transformer-based sequence models
-- UniRep (90M - mLSTM)
-  - Manuscript: https://www.nature.com/articles/s41592-019-0598-1
-  - Code: https://github.com/churchlab/UniRep
-- SeqVec (93M - LSTM)
-  - Manuscript: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3220-8
-  - Code: https://github.com/mheinzinger/SeqVec
