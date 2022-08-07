@@ -27,8 +27,6 @@
   - Code: https://github.com/THUDM/ProteinLM
 - ProSE
   - Code: https://github.com/tbepler/prose
-- SeqVec (93M)
-  - Code: https://github.com/mheinzinger/SeqVec
 - ProteinBERT (16M)
   - Manuscript: https://doi.org/10.1093/bioinformatics/btac020
   - Code: https://github.com/nadavbra/protein_bert
@@ -58,5 +56,7 @@
   - Code: https://github.com/Merck/BioPhi
 
 ## Non-transformer-based sequence models
-- UniRep (90M)
+- UniRep (90M - mLSTM)
   - Code: https://github.com/churchlab/UniRep
+- SeqVec (93M - LSTM)
+  - Code: https://github.com/mheinzinger/SeqVec
