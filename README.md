@@ -57,7 +57,7 @@
   - EMBER3D (PyTorch):
     - Manuscript: ?
     - Code: https://github.com/kWeissenow/EMBER3D
-  - HelixFold(PaddlePaddle)
+  - HelixFold-single (PaddlePaddle)
     - Manuscript: https://arxiv.org/abs/2207.13921
     - Code: https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold-single
     - Resource: https://paddlehelix.baidu.com/app/drug/protein-single/forecast
