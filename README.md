@@ -113,7 +113,7 @@
     - Resource: https://www.isoform.io
   - AlphaFill - enriching the AlphaFold models with ligands and co-factors (AF2)
     - Manuscript: https://www.biorxiv.org/content/10.1101/2021.11.26.470110v1
-    - Code: https://alphafill.eu/
+    - Resource: https://alphafill.eu/
 
  ----
 
