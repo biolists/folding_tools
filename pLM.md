@@ -5,7 +5,7 @@
 - ESM (43M - 670M)
   - Manuscript: https://www.pnas.org/doi/10.1073/pnas.2016239118
   - Code: https://github.com/facebookresearch/esm
-- ProtTrans
+- ProtTrans (420 - 3B)
   - Manuscript: https://ieeexplore.ieee.org/document/9477085/
   - Code: https://github.com/agemagician/ProtTrans
 - ProGen (151M - 6.4B)
@@ -16,7 +16,7 @@
   - Manuscript: https://www.nature.com/articles/s41467-022-32007-7
   - Code: https://huggingface.co/nferruz/ProtGPT2
   - Resource: https://huggingface.co/spaces/Gradio-Blocks/protGPT2_gradioFold
-- Tranceptron
+- Tranceptron (700M)
   - Manuscript: https://proceedings.mlr.press/v162/notin22a.html
   - Code: https://github.com/OATML-Markslab/Tranception
 - ProteinLM (200M, 3B)
