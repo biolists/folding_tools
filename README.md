@@ -1,6 +1,7 @@
 **Table of contents**
 * [Predictors](#Predictors)
-* [Tools, reimplementations, etc.](#Tools)
+* [Tools](#Tools)
+* [Extensions](#Extensions)
 * [Databases](#Databases)
 * [Webservers](#Webservers)
 
@@ -20,6 +21,9 @@
   - RoseTTAFold (PyTorch)
     - Manuscript: https://www.science.org/doi/10.1126/science.abj8754
     - Code: https://github.com/RosettaCommons/RoseTTAFold
+  - ColabFold (AF2|MSAs|JAX)
+    - Manuscript: https://www.nature.com/articles/s41592-022-01488-1
+    - Code: https://github.com/sokrypton/ColabFold
   - OpenFold (PyTorch)
     - Manuscript?
     - Code: https://github.com/aqlaboratory/openfold
@@ -54,28 +58,23 @@
  ----
  
 <a name="Tools"></a>
-### Variations/Repackaging/Tools
-  - ColabFold (AF2|MSAs|JAX)
-    - Manuscript: https://www.nature.com/articles/s41592-022-01488-1
-    - Code: https://github.com/sokrypton/ColabFold
+### Tools
   - gget (AF2)
     - Manuscript: https://doi.org/10.1101/2022.05.17.492392
     - Code: https://github.com/pachterlab/gget#gget-alphafold-
   - FastFold (AF2|OF)
     - Manuscript: https://arxiv.org/abs/2203.00854
     - Code: https://github.com/hpcaitech/FastFold
-  - alphafold_finetune - finetune AlphaFold for Protein-Peptide prediction
-    - Manuscript: https://www.biorxiv.org/content/10.1101/2022.07.12.499365v1
-    - Code: https://github.com/phbradley/alphafold_finetune
-    - Tweet: https://twitter.com/AMotmaen/status/1547435940011945984
   - 💀 Lucidrains AF2 (AF2)
     - Code: https://github.com/lucidrains/alphafold2
   - 💀 Lupoglaz OpenFold2 (AF2)
     - Code: https://github.com/lupoglaz/OpenFold2
 
 
+ ----
+ 
 <a name="Extensions"></a>
-### Tools building on Predictors
+### Extensions
   - AlphaPulldown - protein-protein interaction screens using AlphaFold-Multimer
     - Manuscript: https://www.biorxiv.org/content/10.1101/2022.08.05.502961v1
     - Code: https://www.embl-hamburg.de/AlphaPulldown/
@@ -87,7 +86,11 @@
   - AF2Rank - Rank Decoy using AlphaFold
     - Manuscript: https://www.biorxiv.org/content/10.1101/2022.03.11.484043v3
     - Code: https://github.com/jproney/AF2Rank
-    - [Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/main/af/examples/AF2Rank.ipynb)
+    - Resource: [Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/main/af/examples/AF2Rank.ipynb)
+  - alphafold_finetune - finetune AlphaFold for Protein-Peptide prediction
+    - Manuscript: https://www.biorxiv.org/content/10.1101/2022.07.12.499365v1
+    - Code: https://github.com/phbradley/alphafold_finetune
+    - Other: [[tweet] Amir's announcement](https://twitter.com/AMotmaen/status/1547435940011945984)
    
 ---- 
 
