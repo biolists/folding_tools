@@ -65,6 +65,9 @@
    - Code: https://github.com/lucidrains/alphafold2
 - 💀 Lupoglaz OpenFold2 (AF2)
    - Code: https://github.com/lupoglaz/OpenFold2
+- 💀 Moonbear
+   - Resource: https://www.getmoonbear.com/
+   - Other: [[tweet] [Stephanie's announcement](https://twitter.com/stephanieszhang/status/1427773598199164937)]
  ---- 
 
 <a name="Databases"></a>
