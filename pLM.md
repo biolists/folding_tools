@@ -36,5 +36,5 @@
   - Code: https://github.com/oxpig/AbLang
 
 ## Non-transformer-based sequence models
-- UniRep
+- UniRep (90M)
   - Code: https://github.com/churchlab/UniRep
