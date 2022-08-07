@@ -64,6 +64,10 @@
   - FastFold (AF2|OF)
     - Manuscript: https://arxiv.org/abs/2203.00854
     - Code: https://github.com/hpcaitech/FastFold
+  - alphafold_finetune - finetune AlphaFold for Protein-Peptide prediction
+    - Manuscript: https://www.biorxiv.org/content/10.1101/2022.07.12.499365v1
+    - Code: https://github.com/phbradley/alphafold_finetune
+    - Tweet: https://twitter.com/AMotmaen/status/1547435940011945984
   - 💀 Lucidrains AF2 (AF2)
     - Code: https://github.com/lucidrains/alphafold2
   - 💀 Lupoglaz OpenFold2 (AF2)
@@ -72,12 +76,18 @@
 
 <a name="Extensions"></a>
 ### Tools building on Predictors
- - AlphaPulldown - protein-protein interaction screens using AlphaFold-Multimer
-   - Manuscript: https://www.biorxiv.org/content/10.1101/2022.08.05.502961v1
-   - Code: https://www.embl-hamburg.de/AlphaPulldown/
- - AlphaFill - enriching the AlphaFold models with ligands and co-factors
-   - Manuscript: https://www.biorxiv.org/content/10.1101/2021.11.26.470110v1
-   - Code: https://alphafill.eu/
+  - AlphaPulldown - protein-protein interaction screens using AlphaFold-Multimer
+    - Manuscript: https://www.biorxiv.org/content/10.1101/2022.08.05.502961v1
+    - Code: https://www.embl-hamburg.de/AlphaPulldown/
+  - AlphaFill - enriching the AlphaFold models with ligands and co-factors
+    - Manuscript: https://www.biorxiv.org/content/10.1101/2021.11.26.470110v1
+    - Code: https://alphafill.eu/
+  - ColabDesign - Backprop through AlphaFold for protein design
+    - Code: https://github.com/sokrypton/ColabDesign
+  - AF2Rank - Rank Decoy using AlphaFold
+    - Manuscript: https://www.biorxiv.org/content/10.1101/2022.03.11.484043v3
+    - Code: https://github.com/jproney/AF2Rank
+    - [Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/main/af/examples/AF2Rank.ipynb)
    
 ---- 
 
