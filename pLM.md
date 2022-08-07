@@ -24,6 +24,8 @@
   - Code: https://github.com/THUDM/ProteinLM
 - ProSE
   - Code: https://github.com/tbepler/prose
+- SeqVec (93M)
+  - Code: https://github.com/mheinzinger/SeqVec
 
 ## pLM specific to Antibody sequences
 - IgLM
@@ -32,3 +34,7 @@
 - AbLang
   - Manuscript: https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac046/6609807
   - Code: https://github.com/oxpig/AbLang
+
+## Non-transformer-based sequence models
+- UniRep
+  - Code: https://github.com/churchlab/UniRep
