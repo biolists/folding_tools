@@ -1,5 +1,5 @@
 # Protein Language Models
-(sorted by model side)
+(sorted by number of parameters)
 - ESM (43M - 670M), ESM2 (8M - 15B)
   - Manuscript: https://www.pnas.org/doi/10.1073/pnas.2016239118
   - Code: https://github.com/facebookresearch/esm
