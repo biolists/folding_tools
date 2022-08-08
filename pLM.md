@@ -22,7 +22,7 @@
 | CARP | 600K - 640M  | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.19.492714v2) | [Code](https://github.com/microsoft/protein-sequence-models)| CNN |
 | SeqVec | 93M | [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3220-8) | [Code](https://github.com/mheinzinger/SeqVec)| LSTM |
 | UniRep | 90M | [Paper](https://www.nature.com/articles/s41592-019-0598-1)| [Code](https://github.com/churchlab/UniRep)| mLSTM |
-| ProSE | ?? | ?? | [Code](https://github.com/tbepler/prose) | LSTM |
+| ProSE | ?? | [Paper](https://www.sciencedirect.com/science/article/pii/S2405471221002039) | [Code](https://github.com/tbepler/prose) | LSTM |
 
 ## pLM specific to Antibody sequences
 | Name | Params | Paper | Code | Notes |
