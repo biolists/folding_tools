@@ -27,6 +27,7 @@
 ## pLM specific to Antibody sequences
 | Name | Params | Paper | Code | Notes |
 | :-------- | -------  | --------- | ------- | --------- |
+| TCR-BERT | 100M | [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.18.469186v1) |[Code](https://github.com/wukevin/tcr-bert)||
 | AntiBERTa | 86M | [Paper](https://www.sciencedirect.com/science/article/pii/S2666389922001052) | [Code](https://github.com/alchemab/antiberta) ||
 | AntiBERTy | 26M | [arXiv](https://arxiv.org/abs/2112.07782) | [Code](https://pypi.org/project/antiberty) ||
 | IgLM |1.5M, 13M| [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.13.472419v1.full) | [Code](https://github.com/Graylab/IgLM) ||
