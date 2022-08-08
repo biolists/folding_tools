@@ -1,7 +1,6 @@
 📖 **Table of contents**
 * [Predictors](#Predictors)
-* [Tools](#Tools)
-* [Extensions](#Extensions)
+* [Tools and Extensions](#Tools)
 * [Databases](#Databases)
 * [Webservers](#Webservers)
 
@@ -39,16 +38,21 @@
   - MineSpore-Fold (mindspore)
     - Manuscript: https://arxiv.org/abs/2206.12240
     - Code: https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein
-  - OpenFold (PyTorch) - provides training code and model params for monomer predictions
+  - OpenFold (PyTorch) - provides training code and new model params for monomer predictions
     - Manuscript?
     - Code: https://github.com/aqlaboratory/openfold
   - RoseTTAFold (PyTorch)
     - Manuscript: https://www.science.org/doi/10.1126/science.abj8754
     - Code: https://github.com/RosettaCommons/RoseTTAFold
-  - Uni-Fold (PyTorch/JAX) - provides training code and model params for both monomer and multimer predictions
+  - Uni-Fold (PyTorch/JAX) - provides training code and new model params for both monomer and multimer predictions
     - Manuscript: https://doi.org/10.1101/2022.08.04.502811
     - Code (PyTorch): https://github.com/dptech-corp/Uni-Fold
     - Code (JAX): https://github.com/dptech-corp/Uni-Fold-jax
+  - 💀 Lucidrains AF2 (AF2)
+    - Code: https://github.com/lucidrains/alphafold2
+  - 💀 Lupoglaz OpenFold2 (AF2)
+    - Code: https://github.com/lupoglaz/OpenFold2
+
 
 - **pLM-based** (uses Protein Language Model as input)
   - ESM-Fold (PyTorch)
@@ -70,20 +74,10 @@
  ----
  
 <a name="Tools"></a>
-### Tools
+### Tools and Extensions
   - gget (AF2)
     - Manuscript: https://doi.org/10.1101/2022.05.17.492392
     - Code: https://github.com/pachterlab/gget#gget-alphafold-
-  - 💀 Lucidrains AF2 (AF2)
-    - Code: https://github.com/lucidrains/alphafold2
-  - 💀 Lupoglaz OpenFold2 (AF2)
-    - Code: https://github.com/lupoglaz/OpenFold2
-
-
- ----
- 
-<a name="Extensions"></a>
-### Extensions
   - alphafold_finetune - finetune AlphaFold for Protein-Peptide prediction
     - Manuscript: https://www.biorxiv.org/content/10.1101/2022.07.12.499365v1
     - Code: https://github.com/phbradley/alphafold_finetune
