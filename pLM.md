@@ -16,6 +16,9 @@
 - ProteinLM (200M, 3B)
   - Manuscript: https://arxiv.org/abs/2108.07435
   - Code: https://github.com/THUDM/ProteinLM
+- RITA (85M - 1.2B)
+  - Manuscript: https://arxiv.org/abs/2205.05789
+  - Code: https://github.com/lightonai/RITA
 - ProtGPT2 (738M)
   - Manuscript: https://www.nature.com/articles/s41467-022-32007-7
   - Code: https://huggingface.co/nferruz/ProtGPT2
