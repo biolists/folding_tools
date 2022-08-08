@@ -49,17 +49,17 @@
   [![](https://img.shields.io/badge/repo-mindspore-green)](https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein)
   [![](https://img.shields.io/badge/arxiv-2206.12240-lightgrey)](https://arxiv.org/abs/2206.12240)
     - Reimplementation of AF2 in MindSpore
-    - Features: monomer, multimer (via linker)
+    - Features: monomer
   - OpenFold
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/aqlaboratory/openfold)
     - Reimplementation of AF2 in PyTorch; provides training code and new model parameters.
-    - Features: monomer, multimer (via linker) 
+    - Features: monomer 
     - Other: [Colab Notebook](https://colab.research.google.com/github/aqlaboratory/openfold/blob/main/notebooks/OpenFold.ipynb)
   - RoseTTAFold
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/RosettaCommons/RoseTTAFold)
   [![](https://img.shields.io/badge/DOI-10.1126%2Fscience.abj8754-lightgrey)](https://www.science.org/doi/10.1126/science.abj8754)
     - Reproduced AF2 in PyTorch before details of AF2 were available; new model parameters.
-    - Features: monomer, multimer (via linker)
+    - Features: monomer
     - Other: [Unofficial Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/RoseTTAFold.ipynb)
   - Uni-Fold
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/dptech-corp/Uni-Fold)
@@ -176,8 +176,8 @@
   - 💀 Lucidrains' AlphaFold2
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/lucidrains/alphafold2)
     - AF2 reproduction attempt
-    - Features: monomer, multimer (via linker)
+    - Features: monomer
   - 💀 Lupoglaz's OpenFold2
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/lupoglaz/OpenFold2)
     - AF2 reproduction attempt
-    - Features: monomer, multimer (via linker)
+    - Features: monomer
