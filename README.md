@@ -48,11 +48,11 @@
   - MindSpore-Fold 
   [![](https://img.shields.io/badge/repo-mindspore-green)](https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein)
   [![](https://img.shields.io/badge/arxiv-2206.12240-lightgrey)](https://arxiv.org/abs/2206.12240)
-    - Reimplementation of AF2 in MindSpore, provides training code, dataset and new model params.
+    - Reimplementation of AF2 in MindSpore; provides training code, training dataset and new model params.
     - Features: monomer
   - OpenFold
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/aqlaboratory/openfold)
-    - Reimplementation of AF2 in PyTorch; provides training code and new model parameters.
+    - Reimplementation of AF2 in PyTorch; provides training code, training dataset and new model params.
     - Features: monomer 
     - Other: [Colab Notebook](https://colab.research.google.com/github/aqlaboratory/openfold/blob/main/notebooks/OpenFold.ipynb)
   - RoseTTAFold
