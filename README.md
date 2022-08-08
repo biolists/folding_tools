@@ -112,7 +112,7 @@
     - Manuscript: https://www.biorxiv.org/content/10.1101/2021.11.26.470110v1
     - Resource: https://alphafill.eu/
   - IgFold Database (OAS | IgFold) - predictions specific to antibody sequences
-    - Manuscript: https://www.biorxiv.org/content/10.1101/2022.04.20.488972v1.full.pdf
+    - Manuscript: https://www.biorxiv.org/content/10.1101/2022.04.20.488972v2
     - Resource: https://data.graylab.jhu.edu/igfold_oas_paired95.tar.gz
 
 ----
