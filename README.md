@@ -27,57 +27,70 @@
   [![](https://img.shields.io/badge/repo-JAX-blue)](https://github.com/deepmind/alphafold)
   [![](https://img.shields.io/badge/DOI-10.1038%2Fs41586--021--03819--2-lightgrey)](https://www.nature.com/articles/s41586-021-03819-2)
     - The original AlphaFold 2 method
+    - Features: monomer, multimer
     - Other: [Colab Notebook](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
   - ColabFold
   [![](https://img.shields.io/badge/repo-JAX-blue)](https://github.com/sokrypton/ColabFold)
   [![](https://img.shields.io/badge/DOI-10.1038%2Fs41592--022--01488--1-lightgrey)](https://www.nature.com/articles/s41592-022-01488-1)
     - Faster AF2 compiling and MSA generations
+    - Features: monomer, multimer 
     - Other: [localcolabfold](https://github.com/YoshitakaMo/localcolabfold)
   - FastFold
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/hpcaitech/FastFold)
   [![](https://img.shields.io/badge/arxiv-2203.00854-lightgrey)](https://arxiv.org/abs/2203.00854)
     - Runtime improvements to OpenFold (see below)
+    - Features: monomer
   - HelixFold 
   [![](https://img.shields.io/badge/repo-PaddlePaddle-pink)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold)
   [![](https://img.shields.io/badge/arxiv-2207.05477-lightgrey)](https://arxiv.org/abs/2207.05477)
     - Reimplementation of AF2 in PaddlePaddle
+    - Features: monomer 
   - MindSpore-Fold 
   [![](https://img.shields.io/badge/repo-mindspore-green)](https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein)
   [![](https://img.shields.io/badge/arxiv-2206.12240-lightgrey)](https://arxiv.org/abs/2206.12240)
     - Reimplementation of AF2 in MindSpore
+    - Features: monomer, multimer (via linker)
   - OpenFold
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/aqlaboratory/openfold)
     - Reimplementation of AF2 in PyTorch; provides training code and new model parameters.
+    - Features: monomer, multimer (via linker) 
     - Other: [Colab Notebook](https://colab.research.google.com/github/aqlaboratory/openfold/blob/main/notebooks/OpenFold.ipynb)
   - RoseTTAFold
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/RosettaCommons/RoseTTAFold)
   [![](https://img.shields.io/badge/DOI-10.1126%2Fscience.abj8754-lightgrey)](https://www.science.org/doi/10.1126/science.abj8754)
     - Reproduced AF2 in PyTorch before details of AF2 were available; new model parameters.
+    - Features: monomer, multimer (via linker)
     - Other: [Unofficial Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/RoseTTAFold.ipynb)
   - Uni-Fold
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/dptech-corp/Uni-Fold)
   [![](https://img.shields.io/badge/repo-JAX-blue)](https://github.com/dptech-corp/Uni-Fold-jax)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.08.04.502811-lightgrey)](https://doi.org/10.1101/2022.08.04.502811)
     - Reimplementation of AF2 in PyTorch; provides training code and new (monomer/multimer) model parameters.
+    - Features: monomer, multimer 
 
 - **pLM-based** (using embeddings from protein Language Models (pLMs) as input)
   - ESM-Fold
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.07.20.500902-lightgrey)](https://doi.org/10.1101/2022.07.20.500902)
     - Other: [[tweet] Alex's announcement](https://twitter.com/alexrives/status/1550148755206414341)
+    - Features: monomer 
   - EMBER3D
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](ttps://github.com/kWeissenow/EMBER3D)
+    - Features: monomer 
   - HelixFold-single
     [![](https://img.shields.io/badge/repo-PaddlePaddle-pink)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold-single)
     [![](https://img.shields.io/badge/arxiv-2207.13921-lightgrey)](https://arxiv.org/abs/2207.13921)
+    - Features: monomer 
     - Resource: https://paddlehelix.baidu.com/app/drug/protein-single/forecast
   - IgFold
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/Graylab/IgFold)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.04.20.488972-lightgrey)](https://doi.org/10.1101/2022.04.20.488972)
     - pLM focused on antibody sequences
+    - Features: monomer 
     - Other: [Colab Notebook](https://colab.research.google.com/github/Graylab/IgFold/blob/main/IgFold.ipynb)
   - OmegaFold
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/HeliXonProtein/OmegaFold)
  [![](https://img.shields.io/badge/DOI-10.1101%2F2022.07.21.500999-lightgrey)](https://doi.org/10.1101/2022.07.21.500999)
+    - Features: monomer
     - Other:
     [Unofficial Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/omegafold.ipynb),
     [[tweet] Martin comparing structures](https://twitter.com/thesteinegger/status/1554881669718573062),
@@ -162,6 +175,8 @@
   - 💀 Lucidrains' AlphaFold2
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/lucidrains/alphafold2)
     - AF2 reproduction attempt
+    - Features: monomer, multimer (via linker)
   - 💀 Lupoglaz's OpenFold2
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/lupoglaz/OpenFold2)
     - AF2 reproduction attempt
+    - Features: monomer, multimer (via linker)
