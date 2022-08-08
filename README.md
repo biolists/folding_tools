@@ -53,7 +53,6 @@
   - 💀 Lupoglaz OpenFold2 (AF2)
     - Code: https://github.com/lupoglaz/OpenFold2
 
-
 - **pLM-based** (uses Protein Language Model as input)
   - ESM-Fold (PyTorch)
     - Manuscript: https://doi.org/10.1101/2022.07.20.500902
@@ -66,23 +65,13 @@
     - Manuscript: https://arxiv.org/abs/2207.13921
     - Code: https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold-single
     - Resource: https://paddlehelix.baidu.com/app/drug/protein-single/forecast
+  - IgFold (PyTorch) - specific to antibody sequences
+    - Manuscript: https://www.biorxiv.org/content/10.1101/2022.04.20.488972v2
+    - Code: https://github.com/Graylab/IgFold
   - OmegaFold (PyTorch)
     - Manuscript: https://doi.org/10.1101/2022.07.21.500999
     - Code: https://github.com/HeliXonProtein/OmegaFold
     - Other: [[tweet] Martin comparing structures](https://twitter.com/thesteinegger/status/1554881669718573062), [[tweet] Sergey's positional encoding observation](https://twitter.com/sokrypton/status/1555536325176168448), 
-
- ----
-
- ### Predictors specific to antibody sequences
-
- - DeepAB (PyTorch)
-   - Manuscript: https://www.cell.com/patterns/pdf/S2666-3899(21)00280-4.pdf
-   - Code: https://github.com/RosettaCommons/DeepAb
- - IgFold (PyTorch)
-   - Manuscript: https://www.biorxiv.org/content/10.1101/2022.04.20.488972v1.full.pdf
-   - Code: https://github.com/Graylab/IgFold
-
-----
 
 <a name="Tools"></a>
 ### Tools and Extensions
@@ -122,12 +111,7 @@
   - AlphaFill - enriching the AlphaFold models with ligands and co-factors (AF2)
     - Manuscript: https://www.biorxiv.org/content/10.1101/2021.11.26.470110v1
     - Resource: https://alphafill.eu/
-
- ----
-
- ### Databases of predictions specific to antibody sequences
-
-  - IgFold Database (OAS | IgFold)
+  - IgFold Database (OAS | IgFold) - predictions specific to antibody sequences
     - Manuscript: https://www.biorxiv.org/content/10.1101/2022.04.20.488972v1.full.pdf
     - Resource: https://data.graylab.jhu.edu/igfold_oas_paired95.tar.gz
 
