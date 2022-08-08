@@ -2,7 +2,7 @@
 (sorted by number of parameters)
 | Name | Params | Paper | Code | Model |
 | :-------- | -------  | --------- | ------- | --------- |
-| ESM2 | 8M - 15B | [Preprint](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1) | N/A ||
+| ESM2 | 8M - 15B | [Preprint](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1) | ?? ||
 | ProGen2 | 151M - 6.4B | [Preprint](https://arxiv.org/abs/2206.13517) | [Code](https://github.com/salesforce/progen/tree/main/progen2) ||
 | ProtTrans | 420M - 3B | [Paper](https://ieeexplore.ieee.org/document/9477085/) | [Code](https://github.com/agemagician/ProtTrans)
 | ProteinLM | 200M, 3B | [Preprint](https://arxiv.org/abs/2108.07435) | [Code](https://github.com/THUDM/ProteinLM) ||
@@ -14,7 +14,7 @@
 | DistilProtBert | 230M |[Preprint](https://www.biorxiv.org/content/early/2022/05/10/2022.05.09.491157) | [Code](https://github.com/yarongef/DistilProtBert) ||
 | TAPE | 38M | [Preprint](https://arxiv.org/abs/1906.08230) | [Code](https://github.com/songlab-cal/tape) ||
 | ProteinBERT | 16M | [Paper](https://doi.org/10.1093/bioinformatics/btac020) | [Code](https://github.com/nadavbra/protein_bert), [PyTorch](https://github.com/lucidrains/protein-bert-pytorch) ||
-| AminoBERT | ?? | [Preprint](https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1) |  N/A ||
+| AminoBERT | ?? | [Preprint](https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1) |  ?? ||
 
 ## Non-transformer-based sequence models
 | Name | Params | Paper | Code | Model |
@@ -22,7 +22,7 @@
 | CARP | 640M  | [Preprint](https://www.biorxiv.org/content/10.1101/2022.05.19.492714v2) | [Code](https://github.com/microsoft/protein-sequence-models)| CNN |
 | SeqVec | 93M | [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3220-8) | [Code](https://github.com/mheinzinger/SeqVec)| LSTM |
 | UniRep | 90M | [Paper](https://www.nature.com/articles/s41592-019-0598-1)| [Code](https://github.com/churchlab/UniRep)| mLSTM |
-| ProSE | ?? | N/A | [Code](https://github.com/tbepler/prose) | LSTM |
+| ProSE | ?? | ?? | [Code](https://github.com/tbepler/prose) | LSTM |
 
 ## pLM specific to Antibody sequences
 | Name | Params | Paper | Code | Model |
