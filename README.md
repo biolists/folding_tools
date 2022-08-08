@@ -72,11 +72,11 @@
  ### Predictors specific to antibody sequences
 
  - DeepAB (PyTorch)
-  - Manuscript: https://www.cell.com/patterns/pdf/S2666-3899(21)00280-4.pdf
-  - Code: https://github.com/RosettaCommons/DeepAb
+   - Manuscript: https://www.cell.com/patterns/pdf/S2666-3899(21)00280-4.pdf
+   - Code: https://github.com/RosettaCommons/DeepAb
  - IgFold (PyTorch)
-  - Manuscript: https://www.biorxiv.org/content/10.1101/2022.04.20.488972v1.full.pdf
-  - Code: https://github.com/Graylab/IgFold
+   - Manuscript: https://www.biorxiv.org/content/10.1101/2022.04.20.488972v1.full.pdf
+   - Code: https://github.com/Graylab/IgFold
 
 ----
 
