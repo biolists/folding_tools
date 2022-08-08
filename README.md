@@ -22,47 +22,47 @@
 ### Predictors
 [_in alphabetical order_]
 - **MSA-based** (uses Multiple Sequence Alignment as input)
-  - AlphaFold2 (JAX)
+  - AlphaFold2 (JAX) - OG
     - Manuscript: https://www.nature.com/articles/s41586-021-03819-2
     - Code: https://github.com/deepmind/alphafold
     - Other: [Colab Notebook](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
-  - ColabFold (JAX - faster AF2 compiling and MSA generations)
+  - ColabFold (JAX) - faster AF2 compiling and MSA generations
     - Manuscript: https://www.nature.com/articles/s41592-022-01488-1
     - Code: https://github.com/sokrypton/ColabFold
     - Code: https://github.com/YoshitakaMo/localcolabfold
-  - FastFold (Pytorch)
+  - FastFold (Pytorch) - runtime improves to OpenFold
     - Manuscript: https://arxiv.org/abs/2203.00854
     - Code: https://github.com/hpcaitech/FastFold
-  - HelixFold (PaddlePaddle)
+  - HelixFold (PaddlePaddle) - reimplements AF2 in PaddlePaddle
     - Manuscript: https://arxiv.org/abs/2207.05477
     - Code:  https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold
-  - MineSpore-Fold (mindspore)
+  - MineSpore-Fold (mindspore) - reimplements AF2 in MindSpore
     - Manuscript: https://arxiv.org/abs/2206.12240
     - Code: https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein
-  - OpenFold (PyTorch) - provides training code and new model params for monomer predictions
-    - Manuscript?
+  - OpenFold (PyTorch) - reimplements AF2 in PyTorch; provides training code and new model params
+    - Manuscript: N/A
     - Code: https://github.com/aqlaboratory/openfold
     - Other: [Colab Notebook](https://colab.research.google.com/github/aqlaboratory/openfold/blob/main/notebooks/OpenFold.ipynb)
-  - RoseTTAFold (PyTorch)
+  - RoseTTAFold (PyTorch) - reproduction attempt of AF2 in PyTorch, before details of AF2 were available; new model params
     - Manuscript: https://www.science.org/doi/10.1126/science.abj8754
     - Code: https://github.com/RosettaCommons/RoseTTAFold
     - Other: [Unofficial Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/RoseTTAFold.ipynb)
-  - Uni-Fold (PyTorch/JAX) - provides training code and new model params for both monomer and multimer predictions
+  - Uni-Fold (PyTorch/JAX) - reimplements AF2 in PyTorch; provides training code and new (monomer/multimer) model params
     - Manuscript: https://doi.org/10.1101/2022.08.04.502811
     - Code (PyTorch): https://github.com/dptech-corp/Uni-Fold
     - Code (JAX): https://github.com/dptech-corp/Uni-Fold-jax
-  - 💀 Lucidrains AF2 (AF2)
+  - 💀 Lucidrains' AlphaFold2 (PyTorch) - AF2 reproduction attempt
     - Code: https://github.com/lucidrains/alphafold2
-  - 💀 Lupoglaz OpenFold2 (AF2)
+  - 💀 Lupoglaz's OpenFold2 (PyTorch) - AF2 reproduction attempt
     - Code: https://github.com/lupoglaz/OpenFold2
 
 - **pLM-based** (uses Protein Language Model as input)
   - ESM-Fold (PyTorch)
     - Manuscript: https://doi.org/10.1101/2022.07.20.500902
-    - Code: ? (potentially: https://github.com/facebookresearch/esm)
+    - Code: N/A
     - Other: [[tweet] Alex's announcement](https://twitter.com/alexrives/status/1550148755206414341), 
   - EMBER3D (PyTorch):
-    - Manuscript: ?
+    - Manuscript: N/A
     - Code: https://github.com/kWeissenow/EMBER3D
   - HelixFold-single (PaddlePaddle)
     - Manuscript: https://arxiv.org/abs/2207.13921
