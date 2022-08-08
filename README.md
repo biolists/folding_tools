@@ -1,7 +1,7 @@
 📖 **Table of contents**
 * [Predictors](#Predictors)
 * [Tools and Extensions](#Tools)
-* [Databases](#Databases)
+* [Datasets and Databases](#Databases)
 * [Webservers](#Webservers)
 
 
@@ -93,12 +93,11 @@
     - Resource: [Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/main/af/examples/AF2Rank.ipynb)
    
 ---- 
-<a name="Datasets"></a>
+<a name="Databases"></a>
 ### Datasets for training
   - [OpenFold](https://registry.opendata.aws/openfold/) - MSAs for 132K PDBs + 270K UniClust30 predictions for distilation
   - [MindSpore](https://arxiv.org/abs/2206.12240) - MSAs for 570K PDBs + 745K Distillation
 
-<a name="Databases"></a>
 ### Databases of predictions
   - AlphaFold Database (UniRef90 | AF2)
     - Manuscript: https://doi.org/10.1093/nar/gkab1061
