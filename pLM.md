@@ -12,6 +12,7 @@
 | Tranceptron | 700M | [Paper](https://proceedings.mlr.press/v162/notin22a.html) | [Code](https://github.com/OATML-Markslab/Tranception) ||
 | ESM1 | 43M - 670M | [Paper](https://www.pnas.org/doi/10.1073/pnas.2016239118) | [Code](https://github.com/facebookresearch/esm) ||
 | DistilProtBert | 230M |[bioRxiv](https://www.biorxiv.org/content/early/2022/05/10/2022.05.09.491157) | [Code](https://github.com/yarongef/DistilProtBert) ||
+| DARK | 128M | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.27.478087v1)| | |
 | TAPE | 38M | [arXiv](https://arxiv.org/abs/1906.08230) | [Code](https://github.com/songlab-cal/tape) ||
 | ProteinBERT | 16M | [Paper](https://doi.org/10.1093/bioinformatics/btac020) | [Code](https://github.com/nadavbra/protein_bert), [PyTorch](https://github.com/lucidrains/protein-bert-pytorch) |~106M proteins from UniRef90; 28 days over ~670M records (i.e. ~6.4 iterations)|
 | AminoBERT | ?? | [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1) |  ?? ||
