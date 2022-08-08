@@ -39,13 +39,13 @@
   - MineSpore-Fold (mindspore)
     - Manuscript: https://arxiv.org/abs/2206.12240
     - Code: https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein
-  - OpenFold (PyTorch)
+  - OpenFold (PyTorch) - provides training code and model params for monomer predictions
     - Manuscript?
     - Code: https://github.com/aqlaboratory/openfold
   - RoseTTAFold (PyTorch)
     - Manuscript: https://www.science.org/doi/10.1126/science.abj8754
     - Code: https://github.com/RosettaCommons/RoseTTAFold
-  - Uni-Fold (PyTorch/JAX)
+  - Uni-Fold (PyTorch/JAX) - provides training code and model params for both monomer and multimer predictions
     - Manuscript: https://doi.org/10.1101/2022.08.04.502811
     - Code (PyTorch): https://github.com/dptech-corp/Uni-Fold
     - Code (JAX): https://github.com/dptech-corp/Uni-Fold-jax
@@ -99,6 +99,10 @@
     - Resource: [Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/main/af/examples/AF2Rank.ipynb)
    
 ---- 
+<a name="Datasets"></a>
+### Datasets for training
+  - [OpenFold](https://registry.opendata.aws/openfold/) - MSAs for 132K PDBs + 270K UniClust30 predictions for distilation
+  - [MindSpore](https://arxiv.org/abs/2206.12240) - MSAs for 570K PDBs + 745K Distillation
 
 <a name="Databases"></a>
 ### Databases of predictions
