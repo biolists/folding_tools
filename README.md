@@ -25,6 +25,7 @@
   - AlphaFold2 (JAX)
     - Manuscript: https://www.nature.com/articles/s41586-021-03819-2
     - Code: https://github.com/deepmind/alphafold
+    - Other: [Colab Notebook](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
   - ColabFold (JAX - faster AF2 compiling and MSA generations)
     - Manuscript: https://www.nature.com/articles/s41592-022-01488-1
     - Code: https://github.com/sokrypton/ColabFold
@@ -41,9 +42,11 @@
   - OpenFold (PyTorch) - provides training code and new model params for monomer predictions
     - Manuscript?
     - Code: https://github.com/aqlaboratory/openfold
+    - Other: [Colab Notebook](https://colab.research.google.com/github/aqlaboratory/openfold/blob/main/notebooks/OpenFold.ipynb)
   - RoseTTAFold (PyTorch)
     - Manuscript: https://www.science.org/doi/10.1126/science.abj8754
     - Code: https://github.com/RosettaCommons/RoseTTAFold
+    - Other: [Unofficial Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/RoseTTAFold.ipynb)
   - Uni-Fold (PyTorch/JAX) - provides training code and new model params for both monomer and multimer predictions
     - Manuscript: https://doi.org/10.1101/2022.08.04.502811
     - Code (PyTorch): https://github.com/dptech-corp/Uni-Fold
@@ -68,10 +71,14 @@
   - IgFold (PyTorch) - specific to antibody sequences
     - Manuscript: https://www.biorxiv.org/content/10.1101/2022.04.20.488972v2
     - Code: https://github.com/Graylab/IgFold
+    - Other: [Colab Notebook](https://colab.research.google.com/github/Graylab/IgFold/blob/main/IgFold.ipynb)
   - OmegaFold (PyTorch)
     - Manuscript: https://doi.org/10.1101/2022.07.21.500999
     - Code: https://github.com/HeliXonProtein/OmegaFold
-    - Other: [[tweet] Martin comparing structures](https://twitter.com/thesteinegger/status/1554881669718573062), [[tweet] Sergey's positional encoding observation](https://twitter.com/sokrypton/status/1555536325176168448), 
+    - Other:
+      - [Unofficial Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/omegafold.ipynb)
+      - [[tweet] Martin comparing structures](https://twitter.com/thesteinegger/status/1554881669718573062)
+      - [[tweet] Sergey's positional encoding observation](https://twitter.com/sokrypton/status/1555536325176168448), 
 
 <a name="Tools"></a>
 ### Tools and Extensions
@@ -119,9 +126,11 @@
 
 <a name="Webservers"></a>
 ### Webservers
- - Lambda PredictProtein (ColabFold|limit:500AA)
-   - Manuscript: https://doi.org/10.1101/2022.08.04.502750
-   - Resource: http://embed.predictprotein.org/
-- 💀 Moonbear
-   - Resource: https://www.getmoonbear.com/
-   - Other: [[tweet] Stephanie's announcement](https://twitter.com/stephanieszhang/status/1427773598199164937)
+  - Lambda PredictProtein (ColabFold|limit:500AA)
+    - Manuscript: https://doi.org/10.1101/2022.08.04.502750
+    - Resource: http://embed.predictprotein.org/
+  - Robetta (RoseTTAFold)
+    - Resource: https://robetta.bakerlab.org/
+  - 💀 Moonbear
+    - Resource: https://www.getmoonbear.com/
+    - Other: [[tweet] Stephanie's announcement](https://twitter.com/stephanieszhang/status/1427773598199164937)
