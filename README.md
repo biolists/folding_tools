@@ -68,7 +68,18 @@
     - Other: [[tweet] Martin comparing structures](https://twitter.com/thesteinegger/status/1554881669718573062), [[tweet] Sergey's positional encoding observation](https://twitter.com/sokrypton/status/1555536325176168448), 
 
  ----
- 
+
+ ### Predictors specific to antibody sequences
+
+ - DeepAB (PyTorch)
+  - Manuscript: https://www.cell.com/patterns/pdf/S2666-3899(21)00280-4.pdf
+  - Code: https://github.com/RosettaCommons/DeepAb
+ - IgFold (PyTorch)
+  - Manuscript: https://www.biorxiv.org/content/10.1101/2022.04.20.488972v1.full.pdf
+  - Code: https://github.com/Graylab/IgFold
+
+----
+
 <a name="Tools"></a>
 ### Tools
   - gget (AF2)
@@ -116,6 +127,14 @@
     - Resource: https://alphafill.eu/
 
  ----
+
+ ### Databases of predictions specific to antibody sequences
+
+  - IgFold Database (OAS | IgFold)
+    - Manuscript: https://www.biorxiv.org/content/10.1101/2022.04.20.488972v1.full.pdf
+    - Resource: https://data.graylab.jhu.edu/igfold_oas_paired95.tar.gz
+
+----
 
 <a name="Webservers"></a>
 ### Webservers
