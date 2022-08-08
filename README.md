@@ -36,7 +36,7 @@
   - HelixFold (PaddlePaddle) - reimplements AF2 in PaddlePaddle
     - Manuscript: https://arxiv.org/abs/2207.05477
     - Code:  https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold
-  - MineSpore-Fold (mindspore) - reimplements AF2 in MindSpore
+  - MindSpore-Fold (mindspore) - reimplements AF2 in MindSpore
     - Manuscript: https://arxiv.org/abs/2206.12240
     - Code: https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein
   - OpenFold (PyTorch) - reimplements AF2 in PyTorch; provides training code and new model params
