@@ -150,7 +150,8 @@
     - Resource: https://registry.opendata.aws/openfold/
   - MindSpore
     - MSAs for 570K PDBs + 745K Distillation
-    - Resource: https://arxiv.org/abs/2206.12240
+    - Manuscript: https://arxiv.org/abs/2206.12240
+    - Resource: http://ftp.cbi.pku.edu.cn/psp/
 
 ----
 
@@ -162,9 +163,9 @@
     - Resource: http://embed.predictprotein.org/
   - Robetta
     - Based on RoseTTAFold
-    - Resource: https://robetta.bakerlab.org/
-  
-    ----
+    - Resource: https://robetta.bakerlab.org/ 
+
+----
 
 <a name="Discontinued"></a>
 ### Discontinued
