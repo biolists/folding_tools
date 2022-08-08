@@ -30,7 +30,7 @@
     - Manuscript: https://www.nature.com/articles/s41592-022-01488-1
     - Code: https://github.com/sokrypton/ColabFold
     - Code: https://github.com/YoshitakaMo/localcolabfold
-  - FastFold (Pytorch) - runtime improves to OpenFold
+  - FastFold (Pytorch) - runtime improvements to OpenFold (see below)
     - Manuscript: https://arxiv.org/abs/2203.00854
     - Code: https://github.com/hpcaitech/FastFold
   - HelixFold (PaddlePaddle) - reimplements AF2 in PaddlePaddle
