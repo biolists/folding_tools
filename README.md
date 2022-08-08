@@ -41,7 +41,7 @@
   [![](https://img.shields.io/badge/repo-PaddlePaddle-pink)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold)
   [![](https://img.shields.io/badge/arxiv-2207.05477-lightgrey)](https://arxiv.org/abs/2207.05477)
     - Reimplementation of AF2 in PaddlePaddle
-  - MineSpore-Fold 
+  - MindSpore-Fold 
   [![](https://img.shields.io/badge/repo-mindspore-green)](https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein)
   [![](https://img.shields.io/badge/arxiv-2206.12240-lightgrey)](https://arxiv.org/abs/2206.12240)
     - Reimplementation of AF2 in MindSpore
