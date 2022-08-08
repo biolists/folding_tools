@@ -1,6 +1,6 @@
 # Protein Language Models
 (sorted by number of parameters)
-| Name | Params | Paper | Code | Model |
+| Name | Params | Paper | Code | Notes |
 | :-------- | -------  | --------- | ------- | --------- |
 | ESM2 | 8M - 15B | [Preprint](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1) | ?? ||
 | ProGen2 | 151M - 6.4B | [Preprint](https://arxiv.org/abs/2206.13517) | [Code](https://github.com/salesforce/progen/tree/main/progen2) ||
@@ -17,7 +17,7 @@
 | AminoBERT | ?? | [Preprint](https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1) |  ?? ||
 
 ## Non-transformer-based sequence models
-| Name | Params | Paper | Code | Model |
+| Name | Params | Paper | Code | Notes |
 | :-------- | -------  | --------- | ------- | --------- |
 | CARP | 640M  | [Preprint](https://www.biorxiv.org/content/10.1101/2022.05.19.492714v2) | [Code](https://github.com/microsoft/protein-sequence-models)| CNN |
 | SeqVec | 93M | [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3220-8) | [Code](https://github.com/mheinzinger/SeqVec)| LSTM |
@@ -25,7 +25,7 @@
 | ProSE | ?? | ?? | [Code](https://github.com/tbepler/prose) | LSTM |
 
 ## pLM specific to Antibody sequences
-| Name | Params | Paper | Code | Model |
+| Name | Params | Paper | Code | Notes |
 | :-------- | -------  | --------- | ------- | --------- |
 | AntiBERTa | 86M | [Paper](https://www.sciencedirect.com/science/article/pii/S2666389922001052) | [Code](https://github.com/alchemab/antiberta) ||
 | AntiBERTy | 26M | [Preprint](https://arxiv.org/abs/2112.07782) | [Code](https://pypi.org/project/antiberty) ||
