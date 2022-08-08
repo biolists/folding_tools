@@ -9,8 +9,8 @@
 | RITA | 85M - 1.2B | [Preprint](https://arxiv.org/abs/2205.05789) | [Code](https://github.com/lightonai/RITA) ||
 | ProGen1 | 1.2M | [Preprint](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2) | [Code](https://github.com/salesforce/progen) ||
 | ProtGPT2 | 738M | [Paper](https://www.nature.com/articles/s41467-022-32007-7) | [Code](https://huggingface.co/nferruz/ProtGPT2) ||
-| ESM1 | 43M - 670M | [Paper](https://www.pnas.org/doi/10.1073/pnas.2016239118) | [Code](https://github.com/facebookresearch/esm) ||
 | Tranceptron | 700M | [Paper](https://proceedings.mlr.press/v162/notin22a.html) | [Code](https://github.com/OATML-Markslab/Tranception) ||
+| ESM1 | 43M - 670M | [Paper](https://www.pnas.org/doi/10.1073/pnas.2016239118) | [Code](https://github.com/facebookresearch/esm) ||
 | DistilProtBert | 230M |[Preprint](https://www.biorxiv.org/content/early/2022/05/10/2022.05.09.491157) | [Code](https://github.com/yarongef/DistilProtBert) ||
 | TAPE | 38M | [Preprint](https://arxiv.org/abs/1906.08230) | [Code](https://github.com/songlab-cal/tape) ||
 | ProteinBERT | 16M | [Paper](https://doi.org/10.1093/bioinformatics/btac020) | [Code](https://github.com/nadavbra/protein_bert), [PyTorch](https://github.com/lucidrains/protein-bert-pytorch) ||
