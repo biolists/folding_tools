@@ -63,10 +63,15 @@
     - Other: [Unofficial Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/RoseTTAFold.ipynb)
   - Uni-Fold
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/dptech-corp/Uni-Fold)
+  [![](https://img.shields.io/badge/DOI-10.1101%2F2022.08.04.502811-lightgrey)](https://doi.org/10.1101/2022.08.04.502811)
+    - Reimplementation of AF2 in PyTorch; provides training code and new (monomer/multimer) model parameters.
+    - Features: monomer, multimer 
+  - Uni-Fold-jax
   [![](https://img.shields.io/badge/repo-JAX-blue)](https://github.com/dptech-corp/Uni-Fold-jax)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.08.04.502811-lightgrey)](https://doi.org/10.1101/2022.08.04.502811)
     - Reimplementation of AF2 in PyTorch; provides training code and new (monomer/multimer) model parameters.
     - Features: monomer, multimer 
+
 
 - **pLM-based** (using embeddings from protein Language Models (pLMs) as input)
   - ESM-Fold
