@@ -72,16 +72,16 @@
 - **pLM-based** (using embeddings from protein Language Models (pLMs) as input)
   - ESM-Fold
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.07.20.500902-lightgrey)](https://doi.org/10.1101/2022.07.20.500902)
-    - Other: [[tweet] Alex's announcement](https://twitter.com/alexrives/status/1550148755206414341)
     - Features: monomer 
+    - Other: [[tweet] Alex's announcement](https://twitter.com/alexrives/status/1550148755206414341)
   - EMBER3D
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](ttps://github.com/kWeissenow/EMBER3D)
     - Features: monomer 
   - HelixFold-single
     [![](https://img.shields.io/badge/repo-PaddlePaddle-pink)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold-single)
     [![](https://img.shields.io/badge/arxiv-2207.13921-lightgrey)](https://arxiv.org/abs/2207.13921)
-    - Features: monomer 
-    - Resource: https://paddlehelix.baidu.com/app/drug/protein-single/forecast
+   - Features: monomer 
+   - Resource: https://paddlehelix.baidu.com/app/drug/protein-single/forecast
   - IgFold
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/Graylab/IgFold)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.04.20.488972-lightgrey)](https://doi.org/10.1101/2022.04.20.488972)
