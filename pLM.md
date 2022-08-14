@@ -17,6 +17,10 @@
 | ProteinBERT | 16M | [Paper](https://doi.org/10.1093/bioinformatics/btac020) | [Code](https://github.com/nadavbra/protein_bert), [PyTorch](https://github.com/lucidrains/protein-bert-pytorch) |~106M proteins from UniRef90; 28 days over ~670M records (i.e. ~6.4 iterations)|
 | AminoBERT | ?? | [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1) |  ?? ||
 
+## Special purpose pLM
+| Name | Params | Paper | Code | Notes | 
+| PeTriBERT | 40M | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.10.503344v1) | N/A | Optimized for protein design |
+
 ## Non-transformer-based sequence models
 | Name | Params | Paper | Code | Notes |
 | :-------- | -------  | --------- | ------- | --------- |
