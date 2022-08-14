@@ -2,7 +2,7 @@
 (sorted by number of parameters)
 | Name | Params | Paper | Code | Notes |
 | :-------- | -------  | --------- | ------- | --------- |
-| ESM2 | 8M - 15B | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1) | ?? ||
+| ESM2 | 8M - 15B | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1)|||
 | ProGen2 | 151M - 6.4B | [arXiv](https://arxiv.org/abs/2206.13517) | [Code](https://github.com/salesforce/progen/tree/main/progen2) ||
 | ProtTrans | 420M - 3B | [Paper](https://ieeexplore.ieee.org/document/9477085/) | [Code](https://github.com/agemagician/ProtTrans) |BFD+UniRef50|
 | ProteinLM | 200M, 3B | [arXiv](https://arxiv.org/abs/2108.07435) | [Code](https://github.com/THUDM/ProteinLM) ||
@@ -12,13 +12,14 @@
 | Tranceptron | 700M | [Paper](https://proceedings.mlr.press/v162/notin22a.html) | [Code](https://github.com/OATML-Markslab/Tranception) ||
 | ESM1 | 43M - 670M | [Paper](https://www.pnas.org/doi/10.1073/pnas.2016239118) | [Code](https://github.com/facebookresearch/esm) ||
 | DistilProtBert | 230M |[bioRxiv](https://www.biorxiv.org/content/early/2022/05/10/2022.05.09.491157) | [Code](https://github.com/yarongef/DistilProtBert) ||
-| DARK | 128M | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.27.478087v1)| | |
+| DARK | 128M | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.27.478087v1)|||
 | TAPE | 38M | [arXiv](https://arxiv.org/abs/1906.08230) | [Code](https://github.com/songlab-cal/tape) ||
 | ProteinBERT | 16M | [Paper](https://doi.org/10.1093/bioinformatics/btac020) | [Code](https://github.com/nadavbra/protein_bert), [PyTorch](https://github.com/lucidrains/protein-bert-pytorch) |~106M proteins from UniRef90; 28 days over ~670M records (i.e. ~6.4 iterations)|
-| AminoBERT | ?? | [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1) |  ?? ||
+| AminoBERT || [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1) |||
 
 ## Special purpose pLM
 | Name | Params | Paper | Code | Notes | 
+| :-------- | -------  | --------- | ------- | --------- |
 | PeTriBERT | 40M | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.10.503344v1) | N/A | Optimized for protein design |
 
 ## Non-transformer-based sequence models
@@ -37,7 +38,7 @@
 | AntiBERTy | 26M | [arXiv](https://arxiv.org/abs/2112.07782) | [Code](https://pypi.org/project/antiberty) ||
 | IgLM |1.5M, 13M| [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.13.472419v1.full) | [Code](https://github.com/Graylab/IgLM) ||
 | Sapiens | 0.6M | [Paper](https://www.tandfonline.com/doi/full/10.1080/19420862.2021.2020203) | [Code](https://github.com/Merck/BioPhi) ||
-| AbLang | ?? | [Paper](https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac046/6609807) | [Code](https://github.com/oxpig/AbLang) ||
+| AbLang || [Paper](https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac046/6609807) | [Code](https://github.com/oxpig/AbLang) ||
 
 # Building on pLMs
 - [protGPT2_gradioFold](https://huggingface.co/spaces/Gradio-Blocks/protGPT2_gradioFold) 
