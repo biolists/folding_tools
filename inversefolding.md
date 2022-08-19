@@ -17,7 +17,7 @@
 | :-------- | -------       |--------- | --------- | ------- | --------- |---|
 | ABACUS-R| 2022 |Transformer|[Nat Comput Sci](https://www.nature.com/articles/s43588-022-00273-6)|[code](https://doi.org/10.24433/CO.3351944.v1)||✅|
 | ProteinMPNN     | 2022      | MPNN |[biorxiv](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1)|[git](https://github.com/dauparas/proteinMPNN)|[webserver](https://hf.space/simonduerr/ProteinMPNN) |✅|
-| ProDESIGN-LE    | 2022      | Transformer |[biorxiv]([https://www.biorxiv.org/content/10.1101/2022.06.25.497605v4.full.pdf](https://www.biorxiv.org/content/10.1101/2022.06.25.497605v4))|| |✅|
+| ProDESIGN-LE    | 2022      | Transformer |[biorxiv](https://www.biorxiv.org/content/10.1101/2022.06.25.497605v4)|| |✅|
 | ESM-IF1    | 2022      | Transformer |[biorxiv](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v1)|[git](https://github.com/facebookresearch/esm)| |-|
 | Partlon et al.   | 2022      | Transformer |[biorxiv](https://www.biorxiv.org/content/10.1101/2022.04.15.488492v1)|-| |-|
 | TIMED-*     | 2022      | 3DCNN |[arxiv](https://arxiv.org/pdf/2109.07925.pdf)|[git](https://github.com/wells-wood-research/timed-design)| |not published yet|
