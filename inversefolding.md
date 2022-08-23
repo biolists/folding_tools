@@ -26,7 +26,7 @@
 | GCNDesign     | 2021      | GCN |[pdf](https://github.com/ShintaroMinami/GCNdesign/blob/master/documents/Method_Summary.pdf)|[git](https://github.com/ShintaroMinami/GCNdesign)| [colab](https://github.com/naokob/ColabGCNdesign) |-|
 | GX     | 2021      | 3DCNN+GNN |[arxiv](https://arxiv.org/pdf/2109.07925.pdf)|[git](https://github.com/wells-wood-research/timed-design)| |not published yet|
 | Fold2Seq  | 2021  | Transformer | [arxiv](https://arxiv.org/abs/2106.13058)  | [git](https://github.com/IBM/fold2seq)| |-|
-| CNN_protein_landscape      | 2021      | 3DCNN |[Journal of Biological Physics](https://link.springer.com/article/10.1007/s10867-021-09593-6#Abs1)|[git](https://github.com/akulikova64/CNN_protein_landscape)|||-|
+| CNN_protein_landscape      | 2021      | 3DCNN |[Journal of Biological Physics](https://link.springer.com/article/10.1007/s10867-021-09593-6#Abs1)|[git](https://github.com/akulikova64/CNN_protein_landscape)||-|
 | Orellana et al.      | 2021      | GVP |[biorxiv](https://www.biorxiv.org/content/10.1101/2021.09.06.459171v3)|-||-|
 | Jing et al.      | 2020      | GVP |[arxiv](https://arxiv.org/abs/2009.01411)|[git](https://github.com/drorlab/gvp-pytorch)|||-|
 | DenseCPD     | 2020      | 3DCNN |[JCIM](https://pubs.acs.org/doi/full/10.1021/acs.jcim.0c00043)|-|[webserver](http://protein.org.cn/densecpd.html)|-|
