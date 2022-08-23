@@ -100,10 +100,10 @@
 <a name="Tools"></a>
 ### Tools and Extensions
   - gget (AF2)
-  [![](https://img.shields.io/badge/-repo-gray)](https://github.com/phbradley/alphafold_finetune)
+  [![](https://img.shields.io/badge/-repo-gray)](https://github.com/pachterlab/gget#gget-alphafold- )
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.05.17.492392-lightgrey)](https://doi.org/10.1101/2022.05.17.492392)
   - alphafold_finetune
-  [![](https://img.shields.io/badge/-repo-gray)](https://github.com/pachterlab/gget#gget-alphafold-)
+  [![](https://img.shields.io/badge/-repo-gray)](https://github.com/phbradley/alphafold_finetune)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.07.12.499365-lightgrey)](https://doi.org/10.1101/2022.07.12.499365)
     - finetune AlphaFold for Protein-Peptide prediction
     - Other: [[tweet] Amir's announcement](https://twitter.com/AMotmaen/status/1547435940011945984)
