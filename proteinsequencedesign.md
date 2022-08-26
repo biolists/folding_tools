@@ -1,7 +1,7 @@
 
 💡 **Notes**
 - The following lists are curated by humans, as such may be incomplete
-- We only include software targeting the inverse folding problem e.g given a structure predict the sequence that folds into it. This is also referred to as protein sequence design. 
+- We only include software targeting the inverse folding problem e.g given a structure predict the sequence that folds into it. This is also referred to as protein sequence design. Note, that most models here model P(sequence | structure).
 - We do not wish to advertize one tool over any other, but simply list the tools we are aware of in order of publication year of the model, preprint or publication (whichever is first)
 - Any suggestions for improvements and additions are welcome as issues or pull requests
 
