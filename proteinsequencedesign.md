@@ -23,6 +23,7 @@
 | ESM-IF1    | 2022      | Transformer |[biorxiv](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v1)|[git](https://github.com/facebookresearch/esm)| |-|
 | Partlon et al.   | 2022      | Transformer |[biorxiv](https://www.biorxiv.org/content/10.1101/2022.04.15.488492v1)|-| |-|
 | TIMED-*     | 2022      | 3DCNN |[arxiv](https://arxiv.org/pdf/2109.07925.pdf)|[git](https://github.com/wells-wood-research/timed-design)| |not published yet|
+| AF2rank (ColabDesign) | 2022 | AlphaFold |[biorxiv](https://www.biorxiv.org/content/10.1101/2022.03.11.484043v3)|[git](https://github.com/sokrypton/ColabDesign/tree/main/af)| |-|
 | GCNDesign     | 2021      | GCN |[pdf](https://github.com/ShintaroMinami/GCNdesign/blob/master/documents/Method_Summary.pdf)|[git](https://github.com/ShintaroMinami/GCNdesign)| [colab](https://github.com/naokob/ColabGCNdesign) |-|
 | GX     | 2021      | 3DCNN+GNN |[arxiv](https://arxiv.org/pdf/2109.07925.pdf)|[git](https://github.com/wells-wood-research/timed-design)| |not published yet|
 | Fold2Seq  | 2021  | Transformer | [arxiv](https://arxiv.org/abs/2106.13058)  | [git](https://github.com/IBM/fold2seq)| |-|
