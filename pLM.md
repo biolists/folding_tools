@@ -2,7 +2,7 @@
 (sorted by number of parameters)
 | Name | Params | Paper | Code | Notes |
 | :-------- | -------  | --------- | ------- | --------- |
-| ESM2 | 8M - 15B | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1)|||
+| ESM2 | 8M - 15B | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1)| [Code](https://github.com/facebookresearch/esm) ||
 | ProGen2 | 151M - 6.4B | [arXiv](https://arxiv.org/abs/2206.13517) | [Code](https://github.com/salesforce/progen/tree/main/progen2) ||
 | ProtTrans | 420M - 3B | [Paper](https://ieeexplore.ieee.org/document/9477085/) | [Code](https://github.com/agemagician/ProtTrans) |BFD+UniRef50|
 | ProteinLM | 200M, 3B | [arXiv](https://arxiv.org/abs/2108.07435) | [Code](https://github.com/THUDM/ProteinLM) ||
