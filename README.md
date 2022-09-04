@@ -119,6 +119,9 @@
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.03.11.484043-lightgrey)](https://doi.org/10.1101/2022.03.11.484043)
     - Rank Decoy Structures/Sequences using AlphaFold
     - Resource: [Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/main/af/examples/AF2Rank.ipynb)
+  - protein_structure_module_of_AF2 
+  [![](https://img.shields.io/badge/-repo-gray)](https://github.com/pengzhangzhi/protein_structure_module_of_AF2)
+    - IPA implementation in pytorch
    
 ---- 
 <a name="Databases"></a>
