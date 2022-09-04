@@ -66,12 +66,11 @@
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.08.04.502811-lightgrey)](https://doi.org/10.1101/2022.08.04.502811)
     - Reimplementation of AF2 in PyTorch; provides training code and new (monomer/multimer) model parameters.
     - Features: monomer, multimer 
+    - Resources: [Colab Notebook](https://colab.research.google.com/github/dptech-corp/Uni-Fold/blob/main/notebooks/unifold.ipynb)
   - Uni-Fold-jax
   [![](https://img.shields.io/badge/repo-JAX-blue)](https://github.com/dptech-corp/Uni-Fold-jax)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.08.04.502811-lightgrey)](https://doi.org/10.1101/2022.08.04.502811)
-    - Reimplementation of AF2 in PyTorch; provides training code and new (monomer/multimer) model parameters.
-    - Features: monomer, multimer
-    - Resources: [Colab Notebook](https://colab.research.google.com/github/dptech-corp/Uni-Fold/blob/main/notebooks/unifold.ipynb)
+    - Implementation of AF2's training code.
 
 
 - **pLM-based** (using embeddings from protein Language Models (pLMs) as input)
