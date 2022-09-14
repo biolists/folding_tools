@@ -84,8 +84,8 @@
   - HelixFold-single
     [![](https://img.shields.io/badge/repo-PaddlePaddle-pink)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold-single)
     [![](https://img.shields.io/badge/arxiv-2207.13921-lightgrey)](https://arxiv.org/abs/2207.13921)
-   - Features: monomer 
-   - Resource: https://paddlehelix.baidu.com/app/drug/protein-single/forecast
+    - Features: monomer 
+    - Resource: https://paddlehelix.baidu.com/app/drug/protein-single/forecast
   - IgFold
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/Graylab/IgFold)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.04.20.488972-lightgrey)](https://doi.org/10.1101/2022.04.20.488972)
