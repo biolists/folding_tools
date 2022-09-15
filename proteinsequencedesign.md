@@ -10,7 +10,7 @@
 - [@ginaelnesr](https://twitter.com/ginaelnesr)
 
 
-# Protein Sequence design / Inverse folding models
+# Protein Sequence Design / Inverse folding models
 
 (sorted by year of release)
 | Name      | Release year  |Architecture   | Paper | Code | Notes |Experimental validation |
@@ -36,7 +36,7 @@
 | Ingraham et al.     | 2019      | Transformer |[NeurIPS Proceedings](https://papers.nips.cc/paper/2019/hash/f3a4ff4839c56a5f460c88cce3666a2b-Abstract.html)|[git](https://github.com/jingraham/neurips19-graph-protein-design)| |-|
 | 3DCNN      | 2017      | 3DCNN |[BMC Bioinformatics](https://link.springer.com/article/10.1186/s12859-017-1702-0)|-||-|
 
-# Protein Rotamer sequence design / Inverse folding models
+# Protein Sequence & Rotamer Design / Inverse folding models
 
 (sorted by year of release)
 | Name      | Release year  |Architecture   | Paper | Code | Notes |Experimental validation |
