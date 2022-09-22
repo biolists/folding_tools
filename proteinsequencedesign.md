@@ -15,6 +15,7 @@
 (sorted by year of release)
 | Name      | Release year  |Architecture   | Paper | Code | Notes |Experimental validation |
 | :-------- | -------       |--------- | --------- | ------- | --------- |---|
+| Wazy Alphafold      | 2022      | Transformer |[biorxiv](https://www.biorxiv.org/content/10.1101/2022.08.05.502972v2)|-|[colab](https://colab.research.google.com/github/ur-whitelab/wazy/blob/master/colab/WazyAlphaFold2.ipynb)|-|
 | ABACUS-R| 2022 |Transformer|[Nat Comput Sci](https://www.nature.com/articles/s43588-022-00273-6)|[code](https://doi.org/10.24433/CO.3351944.v1)||✅|
 | ProteinMPNN     | 2022      | MPNN |[biorxiv](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1)|[git](https://github.com/dauparas/proteinMPNN)|[webserver](https://hf.space/simonduerr/ProteinMPNN) |✅|
 | ProDESIGN-LE    | 2022      | Transformer |[biorxiv](https://www.biorxiv.org/content/10.1101/2022.06.25.497605v4)|-| |-|
