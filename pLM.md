@@ -16,7 +16,7 @@
 | PRoBERTa | 44M | [Paper](https://doi.org/10.1145/3388440.3412467) | [Code](https://github.com/annambiar/PRoBERTa) ||
 | TAPE | 38M | [arXiv](https://arxiv.org/abs/1906.08230) | [Code](https://github.com/songlab-cal/tape) ||
 | ProteinBERT | 16M | [Paper](https://doi.org/10.1093/bioinformatics/btac020) | [Code](https://github.com/nadavbra/protein_bert), [PyTorch](https://github.com/lucidrains/protein-bert-pytorch) |~106M proteins from UniRef90; 28 days over ~670M records (i.e. ~6.4 iterations)|
-| AminoBERT || [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1) |||
+| AminoBERT || [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.02.454840v1) |[Code](https://github.com/aqlaboratory/rgn2)||
 
 ## Special purpose pLM
 | Name | Params | Paper | Code | Notes | 
