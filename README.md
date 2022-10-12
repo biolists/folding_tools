@@ -79,7 +79,7 @@
     - Features: monomer 
     - Other: [[tweet] Alex's announcement](https://twitter.com/alexrives/status/1550148755206414341)
   - EMBER3D
-  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](ttps://github.com/kWeissenow/EMBER3D)
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/kWeissenow/EMBER3D)
     - Features: monomer 
   - HelixFold-single
     [![](https://img.shields.io/badge/repo-PaddlePaddle-pink)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold-single)
