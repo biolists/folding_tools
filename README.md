@@ -75,9 +75,10 @@
 
 - **pLM-based** (using embeddings from protein Language Models (pLMs) as input)
   - ESM-Fold
+   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/facebookresearch/esm)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.07.20.500902-lightgrey)](https://doi.org/10.1101/2022.07.20.500902)
     - Features: monomer 
-    - Other: [[tweet] Alex's announcement](https://twitter.com/alexrives/status/1550148755206414341)
+    - Other: [Unofficial Colab notebook](https://github.com/sokrypton/ColabFold/blob/main/ESMFold.ipynb),[API](https://esmatlas.com/resources?action=fold)
   - EMBER3D
   [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/kWeissenow/EMBER3D)
     - Features: monomer 
