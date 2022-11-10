@@ -101,6 +101,9 @@
     [Unofficial Colab Notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/omegafold.ipynb),
     [[tweet] Martin comparing structures](https://twitter.com/thesteinegger/status/1554881669718573062),
     [[tweet] Sergey's positional encoding observation](https://twitter.com/sokrypton/status/1555536325176168448)
+  - RGN2 [Github](https://github.com/aqlaboratory/rgn2)
+  [![](https://img.shields.io/badge/DOI-10.1038%2Fs41587-022-01432-w-lightgrey)](https://doi.org/10.1038/s41587-022-01432-w)
+    - Uses AlphaFold's structure module (AF2Rank's template protocol) for final structure refinement.
     
 - **Other**
   - EquiFold
