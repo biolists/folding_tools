@@ -8,6 +8,7 @@
 | ProteinLM | 200M, 3B | [arXiv](https://arxiv.org/abs/2108.07435) | [Code](https://github.com/THUDM/ProteinLM) ||
 | RITA | 85M - 1.2B | [arXiv](https://arxiv.org/abs/2205.05789) | [Code](https://github.com/lightonai/RITA) ||
 | ProGen1 | 1.2M | [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2) | [Code](https://github.com/salesforce/progen) ||
+| Ankh | 450M, 1.15B | [arXiv](https://arxiv.org/abs/2301.06568) | [Code](https://github.com/agemagician/Ankh) ||
 | ProtGPT2 | 738M | [Paper](https://www.nature.com/articles/s41467-022-32007-7) | [Code](https://huggingface.co/nferruz/ProtGPT2) ||
 | Tranceptron | 700M | [Paper](https://proceedings.mlr.press/v162/notin22a.html) | [Code](https://github.com/OATML-Markslab/Tranception) ||
 | ESM1 | 43M - 670M | [Paper](https://www.pnas.org/doi/10.1073/pnas.2016239118) | [Code](https://github.com/facebookresearch/esm) ||
