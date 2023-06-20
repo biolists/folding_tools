@@ -10,8 +10,9 @@
 | ProGen1 | 1.2M | [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2) | [Code](https://github.com/salesforce/progen) ||
 | Ankh | 450M, 1.15B | [arXiv](https://arxiv.org/abs/2301.06568) | [Code](https://github.com/agemagician/Ankh) ||
 | ProtGPT2 | 738M | [Paper](https://www.nature.com/articles/s41467-022-32007-7) | [Code](https://huggingface.co/nferruz/ProtGPT2) ||
-| Tranceptron | 700M | [Paper](https://proceedings.mlr.press/v162/notin22a.html) | [Code](https://github.com/OATML-Markslab/Tranception) ||
+| Tranception | 700M | [Paper](https://proceedings.mlr.press/v162/notin22a.html) | [Code](https://github.com/OATML-Markslab/Tranception) ||
 | ESM1 | 43M - 670M | [Paper](https://www.pnas.org/doi/10.1073/pnas.2016239118) | [Code](https://github.com/facebookresearch/esm) ||
+| PoET | 57M - 604M | [arXiv](https://arxiv.org/abs/2306.06156) || Only available through OpenProtein.AI web app |
 | DistilProtBert | 230M |[bioRxiv](https://www.biorxiv.org/content/early/2022/05/10/2022.05.09.491157) | [Code](https://github.com/yarongef/DistilProtBert) ||
 | DARK | 128M | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.27.478087v1)|||
 | PRoBERTa | 44M | [Paper](https://doi.org/10.1145/3388440.3412467) | [Code](https://github.com/annambiar/PRoBERTa) ||
@@ -41,6 +42,11 @@
 | IgLM |1.5M, 13M| [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.13.472419v1.full) | [Code](https://github.com/Graylab/IgLM) ||
 | Sapiens | 0.6M | [Paper](https://www.tandfonline.com/doi/full/10.1080/19420862.2021.2020203) | [Code](https://github.com/Merck/BioPhi) ||
 | AbLang || [Paper](https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac046/6609807) | [Code](https://github.com/oxpig/AbLang) ||
+
+## DNA language models
+| Name | Params | Paper | Code | Notes |
+| :-------- | -------  | --------- | ------- | --------- |
+| GENA-LM | 110M - 336M | [bioRxiv](https://doi.org/10.1101/2023.06.12.544594)| [Code](https://github.com/AIRI-Institute/GENA_LM) | Inputs up to 36,000 base pairs |
 
 # Building on pLMs
 - [protGPT2_gradioFold](https://huggingface.co/spaces/Gradio-Blocks/protGPT2_gradioFold) 
