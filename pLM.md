@@ -48,6 +48,7 @@
 | Name | Params | Paper | Code | Notes |
 | :-------- | -------  | --------- | ------- | --------- |
 | GenSLM  | 25M - 25B | [bioRxiv](https://doi.org/10.1101/2022.10.10.511571)| [Code](https://github.com/ramanathanlab/genslm) ||
+| Nucleotide Transformer | 500M - 2.5B | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v2) | [Code](https://github.com/instadeepai/nucleotide-transformer) ||
 | GENA-LM | 110M - 336M | [bioRxiv](https://doi.org/10.1101/2023.06.12.544594)| [Code](https://github.com/AIRI-Institute/GENA_LM) | Inputs up to 36,000 base pairs |
 
 # Building on pLMs
