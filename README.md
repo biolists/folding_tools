@@ -163,8 +163,9 @@
     
 
 ### Datasets for training
-  - OpenFold
-    - MSAs for 132K PDBs + 270K UniClust30 predictions for distilation
+  - OpenProteinSet
+    - 16 million MSAs for PDB, and AF2 structure predictions
+    - Manuscript: https://arxiv.org/abs/2308.05326
     - Resource: https://registry.opendata.aws/openfold/
   - MindSpore
     - MSAs for 570K PDBs + 745K Distillation
