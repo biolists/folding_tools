@@ -13,9 +13,10 @@
 | ProtGPT2 | 738M | [Paper](https://www.nature.com/articles/s41467-022-32007-7) | [Code](https://huggingface.co/nferruz/ProtGPT2) ||
 | Tranception | 700M | [Paper](https://proceedings.mlr.press/v162/notin22a.html) | [Code](https://github.com/OATML-Markslab/Tranception) ||
 | ESM1 | 43M - 670M | [Paper](https://www.pnas.org/doi/10.1073/pnas.2016239118) | [Code](https://github.com/facebookresearch/esm) ||
-| PoET | 57M - 604M | [arXiv](https://arxiv.org/abs/2306.06156) | Not available | Only available through OpenProtein.AI web app |
+| PoET | 57M - 604M | [arXiv](https://arxiv.org/abs/2306.06156) | [Code](https://github.com/OpenProteinAI/PoET) |  |
 | DistilProtBert | 230M |[bioRxiv](https://www.biorxiv.org/content/early/2022/05/10/2022.05.09.491157) | [Code](https://github.com/yarongef/DistilProtBert) ||
 | DARK | 128M | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.27.478087v1)|||
+| ProtMamba | 107M | [bioRxiv](https://doi.org/10.1101/2024.05.24.595730) | [Code](https://github.com/Bitbol-Lab/ProtMamba-ssm) ||
 | PRoBERTa | 44M | [Paper](https://doi.org/10.1145/3388440.3412467) | [Code](https://github.com/annambiar/PRoBERTa) ||
 | TAPE | 38M | [arXiv](https://arxiv.org/abs/1906.08230) | [Code](https://github.com/songlab-cal/tape) ||
 | ProteinBERT | 16M | [Paper](https://doi.org/10.1093/bioinformatics/btac020) | [Code](https://github.com/nadavbra/protein_bert), [PyTorch](https://github.com/lucidrains/protein-bert-pytorch) |~106M proteins from UniRef90; 28 days over ~670M records (i.e. ~6.4 iterations)|
@@ -24,12 +25,15 @@
 ## Special purpose pLM
 | Name | Params | Paper | Code | Notes | 
 | :-------- | -------  | --------- | ------- | --------- |
+| ESM3 | 1.4B - 98B | [bioRxiv](https://doi.org/10.1101/2024.07.01.600583) | [Code](https://github.com/evolutionaryscale/esm) | Includes sequence, structure, secondary structure, solvent accessibility, function, residue annotation tokens. `esm3-open-small` available for download, others through Forge. |
+| SaProt | 35M - 650M | [bioRxiv](https://doi.org/10.1101/2024.05.24.595648) | [Code](https://github.com/westlake-repl/Saprot) | Includes structure information via Foldseek tokens |
+| METL | 20M - 50M | [bioRxiv](https://doi.org/10.1101/2024.03.15.585128) | [Code](https://github.com/gitter-lab/metl) | Pretrained on biophysical simulations |
 | PeTriBERT | 40M | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.10.503344v1) | N/A | Optimized for protein design |
 
 ## Non-transformer-based sequence models
 | Name | Params | Paper | Code | Notes |
 | :-------- | -------  | --------- | ------- | --------- |
-| CARP | 600K - 640M  | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.19.492714v2) | [Code](https://github.com/microsoft/protein-sequence-models)| CNN |
+| CARP | 600K - 640M  | [Paper](http://doi.org/10.1016/j.cels.2024.01.008) | [Code](https://github.com/microsoft/protein-sequence-models)| CNN |
 | SeqVec | 93M | [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3220-8) | [Code](https://github.com/mheinzinger/SeqVec)| bidirectional LSTM; UniRef50 |
 | UniRep | 90M | [Paper](https://www.nature.com/articles/s41592-019-0598-1)| [Code](https://github.com/churchlab/UniRep)| mLSTM |
 | ProSE | 24M | [Paper](https://www.sciencedirect.com/science/article/pii/S2405471221002039) | [Code](https://github.com/tbepler/prose) | LSTM |
@@ -37,6 +41,8 @@
 ## pLM specific to Antibody sequences
 | Name | Params | Paper | Code | Notes |
 | :-------- | -------  | --------- | ------- | --------- |
+| FAbCon | 144M - 2.4B | [bioRxiv](https://doi.org/10.1101/2024.05.22.594943) |[Code](https://huggingface.co/alchemab/fabcon-large)||
+| AntiBERTa2 | 202M | [bioRxiv](https://doi.org/10.1101/2023.12.12.569610) |[Code](https://huggingface.co/alchemab/antiberta2)| AntiBERTa2-CSSP is a multi-modal sequence-structure modal |
 | TCR-BERT | 100M | [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.18.469186v1) |[Code](https://github.com/wukevin/tcr-bert)||
 | AntiBERTa | 86M | [Paper](https://www.sciencedirect.com/science/article/pii/S2666389922001052) | [Code](https://github.com/alchemab/antiberta) ||
 | AntiBERTy | 26M | [arXiv](https://arxiv.org/abs/2112.07782) | [Code](https://pypi.org/project/antiberty) ||
@@ -52,4 +58,5 @@
 | GENA-LM | 110M - 336M | [bioRxiv](https://doi.org/10.1101/2023.06.12.544594)| [Code](https://github.com/AIRI-Institute/GENA_LM) | Inputs up to 36,000 base pairs |
 
 # Building on pLMs
-- [protGPT2_gradioFold](https://huggingface.co/spaces/Gradio-Blocks/protGPT2_gradioFold) 
+- [protGPT2_gradioFold](https://huggingface.co/spaces/Gradio-Blocks/protGPT2_gradioFold)
+- [Multi-modal text+sequence](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?tab=readme-ov-file#text--protein)
